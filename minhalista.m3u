@@ -1,6 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="TV faroeste", Classique Western TV Ao Vivo
+tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" 
 https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
 
 #EXTINF:-1 group-title="TV faroeste", Western Bound Ao Vivo
@@ -431,17 +432,10 @@ https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Encontro Marcado (Meet Joe Black, 1998) " (1998)
-tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1" group-title="Filmes | romance",Encontro Marcado 1998 
+#EXTINF:-1 tvg-name="Encontro Marcado
+tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
+group-title="Filmes | romance",Encontro Marcado 1998 
 https://file-examples.com/storage/fec389187b69ea0fd9e51b0/2017/04/file_example_MP4_480_1_5MG.mp4
-
-
-
-
-
-
-
-
 
 
 

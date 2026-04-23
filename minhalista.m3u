@@ -25,6 +25,8 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
+
+
 #EXTINF:-1 group-title="TV aberta", Record TV
 https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
 
@@ -361,6 +363,19 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="Animes", geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
@@ -404,6 +419,21 @@ https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", Kpop TV Live
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-name="Romance" group-title="Filmes | Romance",Encontro Marcado (1998)|tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1" group-title="Filmes | Ação",Encontro Marcado (Meet Joe Black, 1998) 
+https://cdnst67.tokyvideo.com/videos/591/591627/mp4/0ed088bf9447f893bf8ef2fe4e27819f07c966d990d94abb18e1cd16b62b6660.mp4
+
 
 
 

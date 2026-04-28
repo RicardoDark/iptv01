@@ -1,9 +1,5 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV faroeste", Classique Western TV Ao Vivo
-tvg-logo="https://i.postimg.cc/bv4cW7DB/image.png" 
-https://stmv2.painelvideocast.com.br/classiquew/classiquew/playlist.m3u8
-
 #EXTINF:-1 group-title="TV faroeste", Western Bound Ao Vivo
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 

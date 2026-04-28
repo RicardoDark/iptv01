@@ -210,19 +210,59 @@ https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
 
 
-
-
-
-
 #EXTINF:-1 group-title="filmes", Tv Carioca Internacional
 https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", MIAMI VICE E CONVIDADOS
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
-
 #EXTINF:-1 group-title="filmes", Rakuten TV Português Ao Vivo
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
+
+#EXTINF:-1 group-title="filmes", TvNilcera
+https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="TV paga", Space 
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/space.m3u8
+
+#EXTINF:-1 group-title="TV paga", Megapix 
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/megapix.m3u8
+
+#EXTINF:-1 group-title="TV paga", TLC 
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tlc.m3u8
+
+#EXTINF:-1 group-title="TV paga", Animal Planet
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/animalplanet.m3u8
+
+#EXTINF:-1 group-title="TV paga", Combate
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/combate.m3u8
+
+#EXTINF:-1 group-title="TV paga", Comedy Central
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/comedycentral.m3u8
+
+#EXTINF:-1 group-title="TV paga", Discovery Channel 
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoverychannel.m3u8
+
+#EXTINF:-1 group-title="TV paga", Discovery Home & Health
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoveryhh.m3u8
+
+#EXTINF:-1 group-title="TV paga", Discovery Kids
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoverykids.m3u8
+
+#EXTINF:-1 group-title="TV paga", Discovery Turbo
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/discoveryturbo.m3u8
+
+#EXTINF:-1 group-title="TV paga", Food Network
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/foodnetwork.m3u8
+
+
+
+
 
 
 
@@ -350,6 +390,14 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 
+#EXTINF:-1 group-title="variedades", VRT Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="paisagens", Rede Mundo TV
@@ -431,7 +479,7 @@ https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 tvg-name="Encontro Marcado
 tvg-logo="https://www.dropbox.com/scl/fi/xnv64xk0t5hm61dm5cka4/Encontro-Marcado.jpg?rlkey=cl37rzj2mmc0stq4md7ibw6kv&st=mpzjd1dp&dl=1"
 group-title="Filmes | romance",Encontro Marcado 1998 
-https://file-examples.com/storage/fec389187b69ea0fd9e51b0/2017/04/file_example_MP4_480_1_5MG.mp4
+https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disponible-teleonline.mp4
 
 
 

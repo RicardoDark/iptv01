@@ -578,25 +578,23 @@ https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Animes", geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="Animes", Jetix
-https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", Otaku
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
+#EXTINF:-1 group-title="Animes", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Animes", Anime TV
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
 
+#EXTINF:-1 group-title="Animes", Otaku
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
 #EXTINF:-1 group-title="Animes", KANADE
 https://static.kanade.cl/hls/kanade.m3u8
 
-#EXTINF:-1 group-title="Animes", Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+#EXTINF:-1 group-title="Animes", Jetix
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 
 

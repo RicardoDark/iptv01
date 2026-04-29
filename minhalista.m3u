@@ -12,9 +12,6 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="TV faroeste", GRJNGO 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV faroeste", GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
-
 #EXTINF:-1 group-title="TV faroeste", Multi Canais
 https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
@@ -86,14 +83,8 @@ https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 #EXTINF:-1 group-title="filmes", MEGA ONE TV
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", TOP MIX TV FILMES
-https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
-
 #EXTINF:-1 group-title="filmes", Tv Explosãofm
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
-
-#EXTINF:-1 group-title="filmes", Miura
-https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", Filmelier TV Ao Vivo
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
@@ -146,7 +137,7 @@ https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="filmes", GLN TV Ao Vivo
+#EXTINF:-1 group-title="TV faroeste", GLN TV
 https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", Adrenalina Pura TV Ao Vivo
@@ -246,9 +237,6 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", NOVA BARREIROS WEB TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
-
-#EXTINF:-1 group-title="filmes", TVNA FILMES
-https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
@@ -372,9 +360,6 @@ https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 #EXTINF:-1 group-title="variedades", Tv Metropolitana Rio Ao Vivo
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Tv J.SID Ao Vivo
-https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
-
 #EXTINF:-1 group-title="variedades", Web Tv Xtreme Ao Vivo
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
@@ -459,18 +444,12 @@ https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
 #EXTINF:-1 group-title="variedades", WTJ TV
 https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Rede Brasil de Televisão - RBTV Ao Vivo
-https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/playlist.m3u8
-
 #EXTINF:-1 group-title="variedades", Rede UTV Brasil Ao Vivo
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 
 #EXTINF:-1 group-title="variedades", VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-
-#EXTINF:-1 group-title="variedades", ACESSO BRASIL TV
-https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV POMPEIA
 https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
@@ -495,9 +474,6 @@ https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", MI TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", SEVEN TV
 https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
@@ -663,9 +639,6 @@ https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", vintage TV
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", Retro Plus TV Ao Vivo
-https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", Kpop TV Live
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8

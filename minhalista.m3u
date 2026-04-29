@@ -1,6 +1,6 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV faroeste", Western Bound Ao Vivo
+#EXTINF:-1 group-title="TV faroeste", Western Bound 
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
 #EXTINF:-1 group-title="TV faroeste", CLASSIQUE TV
@@ -33,14 +33,14 @@ https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 #EXTINF:-1 group-title="TV aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 
-#EXTINF:-1 group-title="TV aberta", SBT Interior Ao Vivo
+#EXTINF:-1 group-title="TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
 
 #EXTINF:-1 group-title="TV aberta", TV CULTURAL HD
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV Tropical (Rede Record RN) Ao Vivo
+#EXTINF:-1 group-title="TV aberta", TV Tropical (Rede Record RN)
 https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
 #EXTINF:-1 group-title="TV aberta", TV Band SP
@@ -89,10 +89,10 @@ https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 #EXTINF:-1 group-title="filmes", Filmelier TV
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 group-title="filmes", Sony One Cinema Ao Vivo
+#EXTINF:-1 group-title="filmes", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", Sessão Trash Ao Vivo
+#EXTINF:-1 group-title="filmes", Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 group-title="filmes", CinePIX
@@ -104,13 +104,13 @@ https://video04.logicahost.com.br/cloudingtv/cloudingtv/chunklist_w1085097025.m3
 #EXTINF:-1 group-title="filmes", TVNA FILMES
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", Crime e Investigação Ao Vivo
+#EXTINF:-1 group-title="filmes", Crime e Investigação
 https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/9558b06a-269d-490d-b20f-36366d156747/1.m3u8
 
 #EXTINF:-1 group-title="filmes", Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", Web Tv Cine Ao Vivo
+#EXTINF:-1 group-title="filmes", Web Tv Cine
 https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", TV ALIANÇA
@@ -158,16 +158,16 @@ https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 #EXTINF:-1 group-title="filmes", TV MZ
 https://stmv4.voxtvhd.com.br/tvmz/tvmz/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", CHANNEL 1 Ao Vivo
+#EXTINF:-1 group-title="filmes", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", Sony One Emoções Ao Vivo
+#EXTINF:-1 group-title="filmes", Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="filmes", TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1257985426.m3u8
 
-#EXTINF:-1 group-title="filmes", TVR SUL Ao Vivo
+#EXTINF:-1 group-title="filmes", TVR SUL
 https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u8
 
 #EXTINF:-1 group-title="filmes", TV J.SID
@@ -180,25 +180,25 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="filmes", Runtime Ação Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Ação
 https://run-rt-ra.otteravision.com/run/rt_ra/rt_ra_720.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Crime Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Crime
 https://run-cr-br.otteravision.com/run/cr_br/cr_br_720.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Família Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Família
 https://run-rufb.otteravision.com/run/rufb/rufb.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Comédia Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Comédia
 https://run-rc-br.otteravision.com/run/rc_br/rc_br_720.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Romance Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Romance
 https://run-ro-br.otteravision.com/run/ro_br/ro_br_720.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Trash Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Trash
 https://run-rt-tr-es.otteravision.com/run/rt_tr_es/rt_tr_es_720.m3u8
 
-#EXTINF:-1 group-title="filmes", Runtime Clásicos Ao Vivo
+#EXTINF:-1 group-title="filmes", Runtime Clásicos
 https://run-cl-es.otteravision.com/run/cl_es/cl_es_720.m3u8
 
 
@@ -213,7 +213,7 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 #EXTINF:-1 group-title="filmes", MIAMI VICE E CONVIDADOS
 https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
-#EXTINF:-1 group-title="filmes", Rakuten TV Português Ao Vivo
+#EXTINF:-1 group-title="filmes", Rakuten TV Português
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 
 #EXTINF:-1 group-title="filmes", TvNilcera
@@ -340,10 +340,10 @@ https://video09.logicahost.com.br/redebrasiloficial/redebrasiloficial/chunklist_
 #EXTINF:-1 group-title="variedades", BLITS
 https://stmv1.transmissaodigital.com/blitstv/blitstv/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Bons Tempos Ao Vivo
+#EXTINF:-1 group-title="variedades", Bons Tempos
 https://stmv1.srvif.com/canal29/canal29/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Canal Plural Ao Vivo
+#EXTINF:-1 group-title="variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", BS-TV ONLINE
@@ -356,13 +356,13 @@ https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
 #EXTINF:-1 group-title="variedades", Qtal Channel
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Tv Metropolitana Rio Ao Vivo
+#EXTINF:-1 group-title="variedades", Tv Metropolitana Rio
 https://stmv5.samcast.com.br/claudio8701/claudio8701/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Web Tv Xtreme Ao Vivo
+#EXTINF:-1 group-title="variedades", Web Tv Xtreme
 https://stmv.webtvninjas.com.br/xtremetv54/xtremetv54/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", TV ONE Ao Vivo
+#EXTINF:-1 group-title="variedades", TV ONE
 https://video02.logicahost.com.br/tvone/tvone/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV História
@@ -380,13 +380,13 @@ https://video01.brascast.com/grezzana1839/grezzana1839/playlist.m3u8
 #EXTINF:-1 group-title="variedades", TV LatinaSat
 https://www.latinasat.com.br/hls/live/stream/index.m3u8
 
-#EXTINF:-1 group-title="variedades", TV Cultura Ao Vivo
+#EXTINF:-1 group-title="variedades", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 group-title="variedades", SIC Ao Vivo
+#EXTINF:-1 group-title="variedades", SIC
 https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/index_4.m3u8
 
-#EXTINF:-1 group-title="variedades", TV Cinec Ao Vivo
+#EXTINF:-1 group-title="variedades", TV Cinec
 https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", Tv Futuro
@@ -419,10 +419,10 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2142197292.m3u8
 #EXTINF:-1 group-title="variedades", Canal 2 - Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Tv Web Sul Bahia Ao Vivo
+#EXTINF:-1 group-title="variedades", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Cindie Lite Ao Vivo
+#EXTINF:-1 group-title="variedades", Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 group-title="variedades", TV Sonata
@@ -443,7 +443,7 @@ https://s1.tvr.ovh/admiradoresda7arte/admiradoresda7arte/playlist.m3u8
 #EXTINF:-1 group-title="variedades", WTJ TV
 https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", Rede UTV Brasil Ao Vivo
+#EXTINF:-1 group-title="variedades", Rede UTV Brasil
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 

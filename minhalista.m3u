@@ -228,10 +228,11 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u
 
 
 
+#EXTINF:-1 group-title="variedades", ADRENALINA PURA TV
+https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
-
-
-
+#EXTINF:-1 group-title="variedades", TV DIFUSÃO
+https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV CIDADE NOVA
 https://stmv1.srvif.com/tvcn/tvcn/playlist.m3u8
@@ -267,6 +268,14 @@ https://candlelightmedia-sparklightlove-3-br.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="variedades", SOU TV
 https://video10.logicahost.com.br/soutv/soutv/playlist.m3u8
 
+#EXTINF:-1 group-title="variedades", TOP TV ON BRASIL
+https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV PBC
+https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV IMJC
+https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
 
 
 
@@ -377,26 +386,17 @@ https://br5093.streamingdevideo.com.br/bstv/bstv/playlist.m3u8
 #EXTINF:-1 group-title="variedades", TV LITORAL RN
 https://5ad482a77183d.streamlock.net/tvnordesteegmail.com/tvnordesteegmail.com/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", TV DIFUSÃO
-https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="variedades", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV BRASIL OESTE (Rede Brasil MT)
 https://5ad482a77183d.streamlock.net/operacaotbomt.com/operacaotbomt.com/chunklist_w536849581.m3u8
 
-#EXTINF:-1 group-title="variedades", ADRENALINA PURA TV
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
-
 #EXTINF:-1 group-title="variedades", TVC OURINHOS
 https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", JUST FOR LAUGHS GAGS
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TOP TV ON BRASIL
-https://video05.logicahost.com.br/toptvonbrasil/toptvonbrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", QUIXERAMOBIM TV
 https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
@@ -406,9 +406,6 @@ https://video01.brascast.com/david7639/david7639/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV PBC
-https://stmv2.samcast.com.br/adao6116/adao6116/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV BANQUETA
 https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/playlist.m3u8
@@ -424,9 +421,6 @@ https://stmv2.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", REDE FAMÍLIA - RFTV
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV IMJC
-https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV DESCALVADO
 https://tvdescalvadosite.acessaradios.com.br/tvdescalvadosite/tvdescalvadosite.stream/playlist.m3u8
@@ -445,9 +439,6 @@ https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u
 
 #EXTINF:-1 group-title="variedades", TV CASA GAMELA
 https://stmv3.voxtvhd.com.br/tvgamela/tvgamela/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV PARADISE
-https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV ARACATI
 https://video04.logicahost.com.br/tvaracati/tvaracati/playlist.m3u8
@@ -694,6 +685,9 @@ https://stream.4fun.tv:8888/hls/4f.m3u8
 
 #EXTINF:-1 group-title="clipes", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV PARADISE
+https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 
 
 #EXTINF:-1 group-title="clipes", TV AVENTURA

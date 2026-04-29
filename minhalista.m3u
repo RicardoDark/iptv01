@@ -3,6 +3,9 @@
 #EXTINF:-1 group-title="TV faroeste", Western Bound Ao Vivo
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
+#EXTINF:-1 group-title="TV faroeste", CLASSIQUE TV
+https://stmv1.srvif.com/classique/classique/playlist.m3u8
+
 #EXTINF:-1 group-title="TV faroeste", GRJNGO
 https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
@@ -222,6 +225,26 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="filmes", TvNilcera
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
 
+#EXTINF:-1 group-title="filmes", SWT
+https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
+
+#EXTINF:-1 group-title="filmes", 1980 CHANNEL
+https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
+
+#EXTINF:-1 group-title="filmes", TV MIURA
+https://live20.bozztv.com/giatvplayout7/giatv-209397/playlist.m3u8
+
+#EXTINF:-1 group-title="filmes", TVES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+
+
+
+
+
+
+
+
+
 
 
 
@@ -274,6 +297,27 @@ https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/hbo.m3u8
 
 #EXTINF:-1 group-title="TV paga", Multishow 
 https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/multishow.m3u8
+
+#EXTINF:-1 group-title="TV paga", TNT
+https://play.meusfavoritos.net/live/live/5273242163c6ace34f391060ff8c78b1/index.m3u8?md5=ryQsxcka5v5ZtpCewqPVtg&expires=1777426680
+
+#EXTINF:-1 group-title="TV paga", TNT - 2
+https://play.meusfavoritos.net/live/live/cfdd67b70d6fbb4cda8eb0f8db77d6a5/index.m3u8?md5=_PMlg2vC1DpdmKxa2-Klog&expires=1777426680
+
+#EXTINF:-1 group-title="TV paga", TNT Séries
+https://npmuf25xa04so8hp28.cloudfronte.lat/zzzstream/tntseries.m3u8
+
+#EXTINF:-1 group-title="TV paga", Premiere Clubes
+https://play.meusfavoritos.net/live/live/8da448a402c8634124f5d2e0524e56d0/index.m3u8?md5=0XATrwJxUcl-oSKzIi4ahg&expires=1777427460
+
+
+
+
+
+
+
+
+
 
 
 
@@ -405,6 +449,16 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1 group-title="variedades", VRT Channel
 https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
+#EXTINF:-1 group-title="variedades", ACESSO BRASIL TV
+https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV POMPEIA
+https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", WEB TV CR
+https://stmv1.paineldevideo.com.br/teste/teste/chunklist_w278109473.m3u8
+
+
 
 
 
@@ -416,8 +470,8 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
-
-
+#EXTINF:-1 group-title="paisagens", TV Gazeta
+https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
 
 
 
@@ -460,6 +514,13 @@ https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 
 #EXTINF:-1 group-title="Animes", Jetix
 https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+
+
+
+
+
+
+
 
 
 

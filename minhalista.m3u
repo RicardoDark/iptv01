@@ -226,13 +226,17 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u
 
 
 
-
+#EXTINF:-1 group-title="variedades", TV RIO MADEIRA
+https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV DIFUSÃO
 https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", BS-TV
+https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV CIDADE NOVA
 https://stmv1.srvif.com/tvcn/tvcn/playlist.m3u8
@@ -282,12 +286,17 @@ https://stmv7.voxtvhd.com.br/tvimjc/tvimjc/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="variedades", BS-TV
-https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
+
+
+
+#EXTINF:-1 group-title="variedades", TV DIGITAL BIRIGUI
+https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
+
+#EXTINF:-1 group-title="variedades", TV Marajoara 50.1
+https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV Marrecas
 https://video03.logicahost.com.br/tvmarrecas/tvmarrecas/playlist.m3u8
-
 
 #EXTINF:-1 group-title="variedades", Qtal Channel
 https://stmv1.transmissaodigital.com/qtalchannel/qtalchannel/playlist.m3u8
@@ -325,14 +334,8 @@ https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8
 #EXTINF:-1 group-title="variedades", awTV
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", QDM
-https://stmv1.transmissaodigital.com/redeqdm/redeqdm/chunklist_w2141244079.m3u8
-
 #EXTINF:-1 group-title="variedades", MJR
 https://stmv1.samcast.com.br/migueljunior2043/migueljunior2043/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV Marajoara 50.1
-https://tv02.zas.media:1936/tvmarajoara/tvmarajoara/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", rede qdm
 https://stmv1.transmissaodigital.com/redeqdm/redeqdm/playlist.m3u8
@@ -345,9 +348,6 @@ https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2142197292.m3u8
 
 #EXTINF:-1 group-title="variedades", Canal 2 - Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", Tv Web Sul Bahia
-https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV Sonata
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
@@ -398,14 +398,8 @@ https://video01.logicahost.com.br/tvcourinhos/tvcourinhos/playlist.m3u8
 #EXTINF:-1 group-title="variedades", JUST FOR LAUGHS GAGS
 https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="variedades", QUIXERAMOBIM TV
-https://srv4.zcast.com.br/flavio2481/flavio2481/playlist.m3u8
-
 #EXTINF:-1 group-title="variedades", TV GOITACÁ
 https://video01.brascast.com/david7639/david7639/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV RIO MADEIRA
-https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV BANQUETA
 https://video10.logicahost.com.br/tvbanqueta/tvbanqueta/playlist.m3u8
@@ -415,9 +409,6 @@ https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", REDE WEB TV
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
-
-#EXTINF:-1 group-title="variedades", TV TRAMANDAÍ
-https://stmv2.srvif.com/redacaotrinoo/redacaotrinoo/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", REDE FAMÍLIA - RFTV
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
@@ -433,9 +424,6 @@ https://stmv5.samcast.com.br/oriunditv/oriunditv/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV GALEGA
 https://cdn.live.br1.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist-480p.m3u8
-
-#EXTINF:-1 group-title="variedades", TV DIGITAL BIRIGUI
-https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
 
 #EXTINF:-1 group-title="variedades", TV CASA GAMELA
 https://stmv3.voxtvhd.com.br/tvgamela/tvgamela/playlist.m3u8
@@ -555,6 +543,13 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 #EXTINF:-1 group-title="paisagens", TV Gazeta
 https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
+
+#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
+
+
+
+
 
 
 #EXTINF:-1 group-title="Culinárias", RECEITAS FAST

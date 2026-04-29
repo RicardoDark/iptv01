@@ -440,7 +440,11 @@ https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 #EXTINF:-1 group-title="variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
+#EXTINF:-1 group-title="variedades", TV NBN Live
+https://cdn.jmvstream.com/w/LVW-8410/LVW8410_uiZOVm6vz1/playlist.m3u8
 
+#EXTINF:-1 group-title="variedades", TV AVENTURA
+https://stmv1.liveplushd.com.br/tvaventura/tvaventura/playlist.m3u8
 
 
 
@@ -646,9 +650,6 @@ https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 #EXTINF:-1 group-title="clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
 
-#EXTINF:-1 group-title="clipes", TOP TV
-https://isaocorp.cloudecast.com/toptv/index.m3u8
-
 #EXTINF:-1 group-title="clipes", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
@@ -682,9 +683,10 @@ https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 #EXTINF:-1 group-title="variedades", TV PARADISE
 https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 
+#EXTINF:-1 group-title="clipes", TOP TV
+https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 group-title="clipes", TV AVENTURA
-https://stmv1.liveplushd.com.br/tvaventura/tvaventura/playlist.m3u8
+
 
 
 

@@ -636,6 +636,64 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 
 
 
+#EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="paisagens", Rede Mundo TV
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
+
+#EXTINF:-1 group-title="paisagens", TV Gazeta
+https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
+
+#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Culinárias", COZINHANDO TV
+https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
+
+#EXTINF:-1 group-title="Culinárias", RECEITAS FAST
+https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
+#EXTINF:-1 group-title="Culinárias", TASTEMADE BRASIL
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Culinárias", MASTERCHEF BRASIL
+https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Culinárias", TRAVEL AND FOOD
+https://pop.uniquetv.com.br/travelfood/video.m3u8
+
+#EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
+https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
 
 
 
@@ -651,6 +709,26 @@ https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playl
 #EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
 https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
 
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Series", MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+
+
+#EXTINF:-1 group-title="Games", YEEAAH
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 group-title="Games", WEB Canal Blecaute TV
+https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
+
+#EXTINF:-1 group-title="Games", TV Teen Net 
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 
 
@@ -701,98 +779,6 @@ https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist
 
 #EXTINF:-1 group-title="Desenhos", KANUCA TV BRASIL
 https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-
-#EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Series", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
-
-#EXTINF:-1 group-title="Games", YEEAAH
-https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-#EXTINF:-1 group-title="Games", WEB Canal Blecaute TV
-https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-
-#EXTINF:-1 group-title="Games", TV Teen Net 
-https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="paisagens", Rede Mundo TV
-https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
-
-
-#EXTINF:-1 group-title="paisagens", TV Gazeta
-https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
-
-#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
-https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Culinárias", COZINHANDO TV
-https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
-
-#EXTINF:-1 group-title="Culinárias", RECEITAS FAST
-https://amg00716-globo-amg00716c3-tcl-br-9498.playouts.now.amagi.tv/1080p-cc/index.m3u8
-
-#EXTINF:-1 group-title="Culinárias", TASTEMADE BRASIL
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Culinárias", MASTERCHEF BRASIL
-https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Culinárias", TRAVEL AND FOOD
-https://pop.uniquetv.com.br/travelfood/video.m3u8
-
-#EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
-https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
-
-
-
-
 
 
 

@@ -539,6 +539,9 @@ https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 #EXTINF:-1 group-title="Variedades", TV JAPÃO
 https://pop.uniquetv.com.br/tvjapao/video.m3u8
 
+#EXTINF:-1 group-title="Variedades", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades", Tv Alpha
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 
@@ -673,8 +676,7 @@ https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 
 
 
-#EXTINF:-1 group-title="Animes", Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
 
 #EXTINF:-1 group-title="Animes", Anime TV
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8

@@ -4,9 +4,6 @@
 #EXTINF:-1 group-title="TV faroeste", Western Bound
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
-#EXTINF:-1 group-title="TV faroeste", Western Bound 
-https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
-
 #EXTINF:-1 group-title="TV faroeste", CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/playlist.m3u8
 
@@ -101,9 +98,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
 #EXTINF:-1 group-title="Filmes", TVNA FILMES
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", Adrenalina Pura
-https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV DIFUSÃO
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
@@ -466,9 +460,6 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15086/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", REDE FAMÍLIA - RFTV
 https://tv03.zas.media:1936/rftv/rftv/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", TV DESCALVADO
-https://tvdescalvadosite.acessaradios.com.br/tvdescalvadosite/tvdescalvadosite.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV ALCANCE
 https://stmv4.voxtvhd.com.br/isac3635/isac3635/playlist.m3u8
 
@@ -521,12 +512,6 @@ https://video09.logicahost.com.br/tvmpara/tvmpara/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV DESCALVADO
 https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", Pet Lovers TV
-https://video04.logicahost.com.br/petloverstv/petloverstv/chunklist_w380220083.m3u8
-
-#EXTINF:-1 group-title="Variedades", SEVEN TV
-https://stmv1.srvif.com/seventv/seventv/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV Blue Brasil
 https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 
@@ -535,9 +520,6 @@ https://stmv7.voxtvhd.com.br/gvstudios/gvstudios/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Tv dunas
 https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", tv pompeia
-https://stmv1.srvif.com/ferrera/ferrera/playlist.m3u8?1767637467
 
 #EXTINF:-1 group-title="Variedades", Tv Nilcera
 https://live20.bozztv.com/akamaissh101/ssh101/tvnilcera/playlist.m3u8
@@ -565,9 +547,6 @@ https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 
 #EXTINF:-1 group-title="Variedades", Tv Vargem 
 https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Canal Plural
-https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV Teen Net 
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
@@ -663,8 +642,7 @@ https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Documentários", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentários", WILDEARTH
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01290-wildearth-oando/playlist.m3u8
+
 
 
 
@@ -759,9 +737,6 @@ https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 
 
-
-#EXTINF:-1 group-title="Desenhos", MI TV
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
 #EXTINF:-1 group-title="Desenhos", F.Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8

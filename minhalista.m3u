@@ -145,14 +145,8 @@ https://video05.logicahost.com.br/tvjsid/tvjsid/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", TV ALIANÇA
 https://video08.logicahost.com.br/alianca/alianca/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV Channel Network
-https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", TV Cidade 10
 https://video10.logicahost.com.br/tvcidade10/tvcidade10/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", GLN TV
-https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", TV Diversidade
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-12928/playlist/playlist.m3u8
@@ -166,8 +160,9 @@ https://5a57bda70564a.streamlock.net/tvrsul/tvrsul.sdp/chunklist_w1936833837.m3u
 #EXTINF:-1 group-title="Filmes", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV EXPLOSÃO FM
-https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
+
+
+
 
 
 
@@ -210,26 +205,14 @@ https://video03.logicahost.com.br/cariocainternacional1/cariocainternacional1/pl
 #EXTINF:-1 group-title="Filmes", Rakuten TV
 https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-6741/master.m3u8
 
-#EXTINF:-1 group-title="Filmes", TVES
-https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", TV MAIS BRASIL
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", Web Tv Clássicos
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
-
-#EXTINF:-1 group-title="Filmes", On Tv
-https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
 
 #EXTINF:-1 group-title="Filmes", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
@@ -240,6 +223,8 @@ https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
 
+#EXTINF:-1 group-title="Filmes", TV Channel Network
+https://tvchannel.tvr.ovh/video28392/video28392/playlist.m3u8
 
 
 
@@ -247,7 +232,8 @@ https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u
 
 
 
-
+#EXTINF:-1 group-title="Variedades", TV EXPLOSÃO FM
+https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
@@ -318,6 +304,8 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Christmas TV
 https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", GLN TV
+https://stmv8.samcast.com.br/glnfilmes/glnfilmes/playlist.m3u8
 
 
 
@@ -328,7 +316,8 @@ https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Variedades", On Tv
+https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV DIGITAL BIRIGUI
 https://video03.logicahost.com.br/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
@@ -548,13 +537,24 @@ https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 #EXTINF:-1 group-title="Variedades", Tv Vargem 
 https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", TVES
+https://stmv3.voxtvhd.com.br/tves14edson/tves14edson/playlist.m3u8
+
 #EXTINF:-1 group-title="Variedades", TV Teen Net 
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", TV MAIS BRASIL
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
+
+
+
+
+#EXTINF:-1 group-title="Series", MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
 
 
 

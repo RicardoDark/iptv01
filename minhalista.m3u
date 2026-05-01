@@ -696,6 +696,31 @@ https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 
 
+#EXTINF:-1 group-title="Desenhos", F.Kids
+https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Kids Mais
+https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Animestation
+https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", Ministério Infantil 
+https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", NBX TV KIDS
+https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", MR BEAN 2
+https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", KANUCA TV BRASIL
+https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
+
+
+
+
+
 
 #EXTINF:-1 group-title="paisagens", Rede Mundo TV
 https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
@@ -735,41 +760,6 @@ https://pop.uniquetv.com.br/travelfood/video.m3u8
 
 #EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="Desenhos", F.Kids
-https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Kids Mais
-https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Animestation
-https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", Ministério Infantil 
-https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", NBX TV KIDS
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", MR BEAN 2
-https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="Desenhos", KANUCA TV BRASIL
-https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
-
 
 
 

@@ -1,5 +1,9 @@
 #EXTM3U
 
+
+#EXTINF:-1 group-title="TV faroeste", Western Bound
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
+
 #EXTINF:-1 group-title="TV faroeste", Western Bound 
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
@@ -113,6 +117,9 @@ https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Filmes", CinePIX
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
+
 #EXTINF:-1 group-title="Filmes", SWT
 https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
 
@@ -127,7 +134,6 @@ https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 
 #EXTINF:-1 group-title="Filmes", NBX TV PIPOCA
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
-
 
 
 
@@ -237,8 +243,13 @@ https://live20.bozztv.com/akamaissh101/ssh101/ontv2026/chunks.m3u8
 #EXTINF:-1 group-title="Filmes", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
+#EXTINF:-1 group-title="Filmes", TV Cine
+https://stmv1.srvif.com/tvserie/tvserie/playlist.m3u8
+
 #EXTINF:-1 group-title="Filmes", 1980 CHANNEL
 https://stmv2.painelvideocast.com.br/channel80/channel80/chunklist_w91015598.m3u8
+
+
 
 
 
@@ -313,7 +324,8 @@ https://stmv.jnbhost.com.br/tvprincesadovale/tvprincesadovale/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV Max 90
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Variedades", Christmas TV
+https://stmv2.painelvideocast.com.br/christmastv/christmastv/playlist.m3u8
 
 
 
@@ -551,6 +563,17 @@ https://pop.uniquetv.com.br/tvjapao/video.m3u8
 #EXTINF:-1 group-title="Variedades", Tv Alpha
 https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
 
+#EXTINF:-1 group-title="Variedades", Tv Vargem 
+https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", Canal Plural
+https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TV Teen Net 
+https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", ORTVWEB
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
 
 
@@ -627,6 +650,11 @@ https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
 #EXTINF:-1 group-title="Automóveis", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Automóveis", NASCAR Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+
+#EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
 
 
 
@@ -669,6 +697,14 @@ https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5C
 #EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
+
+
+
+#EXTINF:-1 group-title="Documentários", TV Atividade 
+https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Conectv 
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 
 

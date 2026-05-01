@@ -623,22 +623,6 @@ https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 
 
 
-#EXTINF:-1 group-title="Automóveis", DRIVE CHANNEL TV
-https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
-
-#EXTINF:-1 group-title="Automóveis", RACER BRASIL
-https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 group-title="Automóveis", NASCAR Channel
-https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
-
-#EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
-https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
-
-
-
-
-
 #EXTINF:-1 group-title="Documentários", NATURE TIME
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
@@ -661,6 +645,57 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Documentários", TV Atividade 
+https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Conectv 
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="Automóveis", DRIVE CHANNEL TV
+https://stmv1.voxplayer.com.br/drivechannel/drivechannel/playlist.m3u8
+
+#EXTINF:-1 group-title="Automóveis", RACER BRASIL
+https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
+
+#EXTINF:-1 group-title="Automóveis", NASCAR Channel
+https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playlist1080p-cc.m3u8
+
+#EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
+https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Animes", Loading TV
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", Anime TV
+https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
+
+#EXTINF:-1 group-title="Animes", Otaku
+https://stmv1.srvif.com/anime/anime/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", KANADE
+https://static.kanade.cl/hls/kanade.m3u8
+
+#EXTINF:-1 group-title="Animes", Jetix
+https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
+
+#EXTINF:-1 group-title="Animes", geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
+
+
+
 
 
 
@@ -678,11 +713,9 @@ https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Documentários", TV Atividade 
-https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentários", Conectv 
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
+
+
 
 
 
@@ -715,25 +748,6 @@ https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="Animes", Loading TV
-https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", Anime TV
-https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
-
-#EXTINF:-1 group-title="Animes", Otaku
-https://stmv1.srvif.com/anime/anime/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", KANADE
-https://static.kanade.cl/hls/kanade.m3u8
-
-#EXTINF:-1 group-title="Animes", Jetix
-https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
-
-#EXTINF:-1 group-title="Animes", geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 
 

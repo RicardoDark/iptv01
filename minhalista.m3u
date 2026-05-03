@@ -237,9 +237,6 @@ https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Variedades", TV DIFUSÃO
-https://tvdsite.redesuatv.com.br/tvdsite/tvdsite.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV EXPLOSÃO FM
 https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
 
@@ -833,11 +830,6 @@ https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
-
-
-
-
-
 
 
 

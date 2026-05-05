@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:-1 group-title="TV faroeste", Western Bound
+https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 #EXTINF:-1 tvg-id="telecinetouch.br" tvg-name="TELECINE TOUCH SD²" tvg-logo="https://i.postimg.cc/05WXQjSS/image.png" group-title="TELECINE",TELECINE TOUCH SD²
 http://ppwrz.sbs:80/silmar12899/silmar128999/866.ts
 #EXTINF:-1 tvg-id="terraviva.br" tvg-name="TERRA VIVA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Terra_Viva_logo.svg/1280px-Terra_Viva_logo.svg.png" group-title="ABERTOS",TERRA VIVA FHD

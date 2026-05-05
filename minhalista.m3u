@@ -849,4 +849,19 @@ https://teleonline.org/wp-content/plugins/configuracion-tv/assets/videos/no-disp
 
 
 
+#EXTINF:-1 tvg-name="Top Gun: Maverick [L]" tvg-logo="https://image.tmdb.org/t/p/w400/8v3lrllHYRrqEdYWLyscH4RGFDO.jpg" group-title="Filmes | Legendados",Top Gun: Maverick [L]
+http://ppwrz.sbs:80/movie/silmar12899/silmar128999/285591.mp4
+
+
+
+
+
+#EXTINF:-1 tvg-name="Kentaro Hiyama: O Homem que Engravidou S01E01" tvg-logo="https://image.tmdb.org/t/p/w400/gmfHwOdol0f4bXrb4LEpxf8gXwx.jpg" group-title="Séries | Netflix",Kentaro Hiyama: O Homem que Engravidou S01E01
+http://ppwrz.sbs:80/series/silmar12899/silmar128999/330192.mp4
+#EXTINF:-1 tvg-name="Kentaro Hiyama: O Homem que Engravidou S01E02" tvg-logo="https://image.tmdb.org/t/p/w400/gmfHwOdol0f4bXrb4LEpxf8gXwx.jpg" group-title="Séries | Netflix",Kentaro Hiyama: O Homem que Engravidou 
+
+
+
+
+
 

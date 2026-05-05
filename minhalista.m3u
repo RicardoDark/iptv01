@@ -1,6 +1,4 @@
 #EXTM3U
-
-
 #EXTINF:-1 group-title="TV faroeste", Western Bound
 https://ime-cw.otteravision.com/ime/cw/cw_720p.m3u8
 
@@ -859,6 +857,53 @@ http://ppwrz.sbs:80/movie/silmar12899/silmar128999/285591.mp4
 #EXTINF:-1 tvg-name="Kentaro Hiyama: O Homem que Engravidou S01E01" tvg-logo="https://image.tmdb.org/t/p/w400/gmfHwOdol0f4bXrb4LEpxf8gXwx.jpg" group-title="Séries | Netflix",Kentaro Hiyama: O Homem que Engravidou S01E01
 http://ppwrz.sbs:80/series/silmar12899/silmar128999/330192.mp4
 #EXTINF:-1 tvg-name="Kentaro Hiyama: O Homem que Engravidou S01E02" tvg-logo="https://image.tmdb.org/t/p/w400/gmfHwOdol0f4bXrb4LEpxf8gXwx.jpg" group-title="Séries | Netflix",Kentaro Hiyama: O Homem que Engravidou 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="24H FILMES ADAM SANDLER" tvg-logo="https://i.imgur.com/l9PwcD4.png" group-title="24H FILMES",24H FILMES ADAM SANDLER
+http://ppwrz.sbs:80/silmar12899/silmar128999/410677.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FILMES BRUCE WILLIS" tvg-logo="https://i.imgur.com/l9PwcD4.png" group-title="24H FILMES",24H FILMES BRUCE WILLIS
+http://ppwrz.sbs:80/silmar12899/silmar128999/410678.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H FILMES TOM CRUISE" tvg-logo="https://i.imgur.com/l9PwcD4.png" group-title="24H FILMES",24H FILMES TOM CRUISE
+http://ppwrz.sbs:80/silmar12899/silmar128999/410679.ts
+#EXTINF:-1 tvg-id="3997c61a-8115-4dff-a8be-83f903d5ddf4" tvg-name="24H HARRY POTTER" tvg-logo="https://i.imgur.com/l9PwcD4.png" group-title="24H FILMES",24H HARRY POTTER
+http://ppwrz.sbs:80/silmar12899/silmar128999/2402.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-101 DALMATAS" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="24H INFANTIS/DESENHOS",24H-101 DALMATAS
+http://ppwrz.sbs:80/silmar12899/silmar128999/2032.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-3 PALAVRINHAS" tvg-logo="https://i.postimg.cc/qMYfRQtF/image.png" group-title="24H INFANTIS/DESENHOS",24H-3 PALAVRINHAS
+http://ppwrz.sbs:80/silmar12899/silmar128999/356930.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-90 DIAS PARA CASAR - REINO UNIDO (2022)" tvg-logo="https://i.postimg.cc/nhVkDHkt/image.png" group-title="24H DISCOVERY+",24H-90 DIAS PARA CASAR - REINO UNIDO (2022)
+http://ppwrz.sbs:80/silmar12899/silmar128999/402779.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-90 DIAS PARA CASAR: A ÚLTIMA CHANCE (2023)" tvg-logo="https://i.postimg.cc/BnPtQwjx/image.png" group-title="24H DISCOVERY+",24H-90 DIAS PARA CASAR: A ÚLTIMA CHANCE (2023)
+http://ppwrz.sbs:80/silmar12899/silmar128999/402811.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-90 DIAS PARA CASAR: ANTES DOS 90 DIAS (2017)" tvg-logo="https://i.postimg.cc/zGDsGYbs/image.png" group-title="24H DISCOVERY+",24H-90 DIAS PARA CASAR: ANTES DOS 90 DIAS (2017)
+http://ppwrz.sbs:80/silmar12899/silmar128999/402780.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-90 DIAS PARA FICAR MILIONÁRIO (2019)" tvg-logo="https://i.postimg.cc/8C18n7gm/image.png" group-title="24H DISCOVERY+",24H-90 DIAS PARA FICAR MILIONÁRIO (2019)
+http://ppwrz.sbs:80/silmar12899/silmar128999/402812.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-90DIAS PARA CASAR (2014)" tvg-logo="https://i.postimg.cc/qMC1c4Sh/image.png" group-title="24H DISCOVERY+",24H-90DIAS PARA CASAR (2014)
+http://ppwrz.sbs:80/silmar12899/silmar128999/402810.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-A BRUXINHA SABRINA TEMPORADA 1" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="24H INFANTIS/DESENHOS",24H-A BRUXINHA SABRINA TEMPORADA 1
+http://ppwrz.sbs:80/silmar12899/silmar128999/985.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H-A CASA DA RAVEN" tvg-logo="https://i.postimg.cc/8cLBph7K/image.png" group-title="24H SÉRIES/PROGRAMAS",24H-A CASA DA RAVEN
+
+
+
 
 
 

@@ -204,9 +204,6 @@ https://b0d59c8c98974e708e5ccb9a27cdfdfc.mediatailor.eu-west-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="Filmes", CINE BRASIL
 https://stmv2.painelvideocast.com.br/cinebrasil/cinebrasil/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Web Tv Clássicos
-https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
-
 #EXTINF:-1 group-title="Filmes", Gospel Movie
 https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 
@@ -249,9 +246,6 @@ https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV CIDADE NOVA
 https://stmv1.srvif.com/tvcn/tvcn/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", Cindie Lite
-https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
 #EXTINF:-1 group-title="Variedades", TV Sonata
 https://cdn-tiva-video04-logicahost-com-br.smartbit.co/isonata/isonata/chunklist_w1257985426.m3u8
@@ -392,17 +386,8 @@ https://video01.brascast.com/marilia2344/marilia2344/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Tv dunas
 https://stmv2.samcast.com.br/wallace4828/wallace4828/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", ORTVWEB
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", tv aracati
-https://video04.logicahost.com.br/tvaracati/tvaracati/chunklist_w2142197292.m3u8
-
 #EXTINF:-1 group-title="Variedades", Canal 2 - Tv Nova Juarez
 https://stmv2.webtvninjas.com.br/tvnovajuarez/tvnovajuarez/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV Sonata
-https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", Acesso Brasil TV
 https://s1.tvr.ovh/acessobrasiltv/acessobrasiltv/playlist.m3u8
@@ -545,12 +530,6 @@ https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.
 #EXTINF:-1 group-title="Variedades", ORTVWEB
 https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 
-#EXTINF:-1 group-title="Variedades", VTR Channel
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-
-
-https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
-
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
 
@@ -585,17 +564,8 @@ https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 #EXTINF:-1 group-title="TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
 
-#EXTINF:-1 group-title="TV Livre", Tv Max 90
-https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", TV Atividade 
-https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
-
 #EXTINF:-1 group-title="TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
 https://rtisoluctions.com.br/hls/test.m3u8
-
-#EXTINF:-1 group-title="TV Livre", TV Gazeta
-https://live.eu-north-1a.cf.dmcdn.net/sec2(RyuHKV169-0TbZzcaWX4jZNtk2BLDVOnmndbn-tkoUnjby88eg0I5KWoMk5kTqh3sndMWYL_DoLuIfenEVwUlDALxQ7a9LlxpnM5IUDHDFUzoVBCAydHUhn26hkn2SEr)/dm/3/x8ttlxm/s/live-480.m3u8
 
 #EXTINF:-1 group-title="TV Livre", Rede Mais Família 
 https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
@@ -692,8 +662,6 @@ https://pop.uniquetv.com.br/travelfood/video.m3u8
 #EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
-#EXTINF:-1 group-title="Culinárias", Tastemade Brasil
-https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
 
 

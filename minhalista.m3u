@@ -31,6 +31,9 @@ https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
 #EXTINF:-1 group-title="TV aberta", Record TV Rio
 https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 
+#EXTINF:-1 group-title="TV aberta",  TV Serra Dourada
+https://www.youtube.com/watch?v=LLpNUqHVam8&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.cxtv.com.br%2F
+
 #EXTINF:-1 group-title="TV aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 
@@ -61,8 +64,8 @@ https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 group-title="TV aberta", TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="TV aberta", TV Vila Real (Record MT) 
+https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
 
@@ -223,13 +226,14 @@ https://video05.logicahost.com.br/gbsstudio/gbsstudio/playlist.m3u8
 #EXTINF:-1 group-title="Filmes", MBC BRASIL TV
 https://tv01.zas.media:1936/centraltvweb/centraltvweb/playlist.m3u8
 
+#EXTINF:-1 group-title="Filmes", FilmRise Séries
+https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-plex/b9dd14d3-36f7-414b-b91a-84d5455f6088/0.m3u8
 
+#EXTINF:-1 group-title="Filmes", Cindie Lite
+https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-
-
-
-
-
+#EXTINF:-1 group-title="Filmes", PIXTV 
+https://mpix05.tmwpix.com:6516/playoutpixtv/public/1/live/pixtvsc_pt.m3u8
 
 
 
@@ -325,7 +329,8 @@ https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
 
 
 
-
+#EXTINF:-1 group-title="Variedades", TV Meio 
+https://isaocorp.cloudecast.com/redemeio/index.m3u8
 
 #EXTINF:-1 group-title="Variedades", WTJ TV
 https://cdn-tiva-video02-logicahost-com-br.smartbit.co/wtjtvminas/wtjtvminas/playlist.m3u8
@@ -529,26 +534,104 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 #EXTINF:-1 group-title="Variedades", Loading TV
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-
-
-
-
 #EXTINF:-1 group-title="Variedades", RCTV
 https://tv03.zas.media:1936/mbc/mbc/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", Tv Liberdade Pacajus
+https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", ORTVWEB
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", VTR Channel
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
+
+https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
+
+#EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
+https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
+
+#EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
+https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
 
 
 
 
 
-#EXTINF:-1 group-title="TV paga", COMBATV
+
+#EXTINF:-1 group-title="paisagens", Rede Mundo TV
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
+
+#EXTINF:-1 group-title="paisagens", TV Gazeta
+https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
+
+#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
+https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="TV Livre", Tv Serra
+https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Tv Max 90
+https://cdn.live.br1.jmvstream.com/webtv/AVJ-15538/playlist/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", TV Atividade 
+https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
+https://rtisoluctions.com.br/hls/test.m3u8
+
+#EXTINF:-1 group-title="TV Livre", TV Gazeta
+https://live.eu-north-1a.cf.dmcdn.net/sec2(RyuHKV169-0TbZzcaWX4jZNtk2BLDVOnmndbn-tkoUnjby88eg0I5KWoMk5kTqh3sndMWYL_DoLuIfenEVwUlDALxQ7a9LlxpnM5IUDHDFUzoVBCAydHUhn26hkn2SEr)/dm/3/x8ttlxm/s/live-480.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Rede Mais Família 
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Play TV 
+https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
+
+#EXTINF:-1 group-title=" TV Poços
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", COMBATV
 https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
 
+#EXTINF:-1 group-title="TV Livre", Vivax Tv 
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Livre", Tv Mais Brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
+#EXTINF:-1 group-title="TV Livre", Tv Interior
+https://live.tvinterior.com.br/hls/stream.m3u8
 
+#EXTINF:-1 group-title="TV Livre", Nova Barreiros Web
+https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Web Tv RMB 
+https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
+
+#EXTINF:-1 group-title="TV Livre", UMA TV 
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Leouve
+https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Tv Votuline
+https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 
 
 
@@ -567,6 +650,11 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 
 
+
+
+
+
+
 #EXTINF:-1 group-title="Documentários", TV Atividade 
 https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
@@ -578,31 +666,6 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 
 
 
-
-
-
-#EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
-https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
-
-#EXTINF:-1 group-title="Pegadinhas", JUST FOR LAUGHS GAGS
-https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playlist.m3u8
-
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="paisagens", Rede Mundo TV
-https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
-
-
-#EXTINF:-1 group-title="paisagens", TV Gazeta
-https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
-
-#EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
-https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 
 
@@ -629,8 +692,8 @@ https://pop.uniquetv.com.br/travelfood/video.m3u8
 #EXTINF:-1 group-title="Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
 
-
-
+#EXTINF:-1 group-title="Culinárias", Tastemade Brasil
+https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlist/amg00047-tastemadefast-tastemadeportuguesept16intl-plexus/playlist.m3u8
 
 
 
@@ -654,11 +717,11 @@ https://amg00115-amg00115c1-nascar-northamerica-6927.playouts.now.amagi.tv/playl
 #EXTINF:-1 group-title="Automóveis", Red Bull TV Motorsport
 https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ww9fq2xfgtfog/playlist.m3u8
 
+#EXTINF:-1 group-title="Automóveis", WSN TV do Carro
+https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 
-
-
-
-
+#EXTINF:-1 group-title="Automóveis", FUEL TV
+https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
 
 
 
@@ -690,16 +753,14 @@ https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
 #EXTINF:-1 group-title="Animes", Otaku
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 group-title="Animes", KANADE
-https://static.kanade.cl/hls/kanade.m3u8
+#EXTINF:-1 group-title="Animes", geekdot
+https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="Animes", Jetix
 https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 
-#EXTINF:-1 group-title="Animes", geekdot
-https://stream.ichibansys.com:3764/hybrid/play.m3u8
-
-
+#EXTINF:-1 group-title="Animes", KANADE
+https://static.kanade.cl/hls/kanade.m3u8
 
 
 
@@ -736,6 +797,9 @@ https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
+
+#EXTINF:-1 group-title="clipes", ZOOM MUSIC
+https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", +MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8

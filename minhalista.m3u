@@ -240,9 +240,6 @@ https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Variedades", TV EXPLOSÃO FM
-https://srv3.zcast.com.br/edson6164/edson6164/playlist.m3u8
-
 #EXTINF:-1 group-title="Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
@@ -363,9 +360,6 @@ https://d1zx6l1dn8vaj5.cloudfront.net/out/v1/b89cc37caa6d418eb423cf092a2ef970/in
 
 #EXTINF:-1 group-title="Variedades", TV Cinec
 https://video07.logicahost.com.br/tvcinec/tvcinec/playlist.m3u8
-
-#EXTINF:-1 group-title="Variedades", TV DESCALVADO
-https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="Variedades", awTV
 https://stmv2.voxtvhd.com.br/keynni6990/keynni6990/playlist.m3u8
@@ -719,9 +713,6 @@ https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
 
 #EXTINF:-1 group-title="TV Livre", UMA TV 
 https://umatv.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Leouve
-https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
 
 #EXTINF:-1 group-title="TV Livre", Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8

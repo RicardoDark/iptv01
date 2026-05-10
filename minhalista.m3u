@@ -228,9 +228,8 @@ https://d3rciv7av2te5a.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 #EXTINF:-1 group-title="Filmes", Cindie Lite
 https://cc-hqw8u5r1nshjc.akamaized.net/scheduler/scheduleMaster/352.m3u8
 
-
-
-
+#EXTINF:-1 group-title="Filmes", Cine Trianon TV
+https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 
 
 
@@ -533,6 +532,8 @@ https://cdn.live.br1.jmvstream.com/webtv/AVJ-17961/playlist/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", WEB Canal Blecaute TV
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", TV Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 
 
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
@@ -565,50 +566,6 @@ https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
 
 
-
-
-#EXTINF:-1 group-title="TV Livre", Tv Serra
-https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
-https://rtisoluctions.com.br/hls/test.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Rede Mais Família 
-https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-
-#EXTINF:-1 group-title=" TV Poços
-https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", COMBATV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Vivax Tv 
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Tv Mais Brasil
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Tv Interior
-https://live.tvinterior.com.br/hls/stream.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Nova Barreiros Web
-https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Web Tv RMB 
-https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
-
-#EXTINF:-1 group-title="TV Livre", UMA TV 
-https://umatv.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Leouve
-https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
-
-#EXTINF:-1 group-title="TV Livre", Tv Votuline
-https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-
-
-
-
 #EXTINF:-1 group-title="Animais", NZTV
 https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
 
@@ -627,6 +584,17 @@ https://stmv5.samcast.com.br/tvmaispet6354/tvmaispet6354/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="Documentários", Iblizz
+https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", NZTV
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", TV NND
+https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", RS TV
+https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentários", TV Atividade 
 https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
@@ -712,6 +680,49 @@ https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 #EXTINF:-1 group-title="Games", YEEAAH
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
+
+
+
+
+
+#EXTINF:-1 group-title="TV Livre", Tv Serra
+https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
+https://rtisoluctions.com.br/hls/test.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Rede Mais Família 
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+#EXTINF:-1 group-title=" TV Poços
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Vivax Tv 
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Tv Mais Brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Tv Interior
+https://live.tvinterior.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Nova Barreiros Web
+https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Web Tv RMB 
+https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
+
+#EXTINF:-1 group-title="TV Livre", UMA TV 
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Leouve
+https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1063ff035a329dc566548b67c8f0dec666a3fd.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Tv Votuline
+https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 
 
 

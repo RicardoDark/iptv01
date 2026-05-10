@@ -541,6 +541,10 @@ https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playl
 #EXTINF:-1 group-title="Variedades", TV Aberta
 https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", FUEL TV
+https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
+
 
 #EXTINF:-1 group-title="Pegadinhas", FORA TÉDIO TV
 https://stmv2.srvif.com/foratedio/foratedio/playlist.m3u8
@@ -554,8 +558,7 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 
 
 
-#EXTINF:-1 group-title="paisagens", Rede Mundo TV
-https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
+
 
 
 
@@ -603,13 +606,13 @@ https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="paisagens", TV Gazeta
-https://live.eu-north-1a.cf.dmcdn.net/sec2(G6sDnUqtcRoELtAdDuVIYDyAUIKrG9PIIVp5CvRAbkFpP21iYSO8qr9cvNb--rfbvVds-1YtBxI-BvHqTcf5JeXyA4wxhhqEIYddKD8uI8Zk7-bu3k64nxO2NuwfyPLu)/dm/3/x9xwtpy/s/live-720.m3u8
+
 
 #EXTINF:-1 group-title="paisagens", Tv Web Sul Bahia
 https://a.cdni.live/radiomultimidia/radiomultimidia/playlist.m3u8
 
-
+#EXTINF:-1 group-title="paisagens", Rede Mundo TV
+https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
@@ -659,8 +662,7 @@ https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Automóveis", WSN TV do Carro
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 
-#EXTINF:-1 group-title="Automóveis", FUEL TV
-https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fueltv-fueltvbr-samsungbr/playlist.m3u8
+
 
 
 
@@ -724,7 +726,8 @@ https://vid1100.trvdp.com/media/0f1063ff035a329dc566548b67c8f0dec666a3fd/hls/0f1
 #EXTINF:-1 group-title="TV Livre", Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
 
-
+#EXTINF:-1 group-title="paisagens", TV Gazeta
+https://live.eu-north-1b.cf.dmcdn.net/sec2(ZZMZObNwtgtun2yNbaM5XH6UktzyZchN7as62tNrbiC896emy9NfHkWvhMbSxESiS8SKWglQPq_E7bfqtK4euw2jmy_dl40X_gVDbpPVdvvRxNE4ZpvXM0M87MmHXUAJ)/dm/3/x9xwtpy/s/live-720.m3u8
 
 
 

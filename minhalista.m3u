@@ -67,6 +67,13 @@ https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
+#EXTM3U x-tvg-url="" #EXTINF:-1 tvg-id="" group-title="TV aberta" tvg-logo="https://pt.pinterest.com/ideas/sbt-logo/953239563027/", SBT https://api.m3use.projectmoose.xyz/m3u/RicardoDark/teatrodecontosdefadaA/686ee843ccca9dd7b753acf2.m3u8?uid=RicardoDark&pkey=8FHx6Zgt #EXTINF:-1 tvg-id="" group-title="TV aberta" tvg-logo="http://www.fontedecanais.tv/logos/canais/globo.png", GLOBO SÃO PAULO https://api.m3use.projectmoose.xyz/m3u/RicardoDark/teatrodecontosdefadaA/69c0321f78a5c710d42b7247.m3u8?uid=RicardoDark&pkey=8FHx6Zgt
+
+
+
+
+
+
 
 
 
@@ -856,9 +863,16 @@ https://isaocorp.cloudecast.com/toptv/index.m3u8
 
 
 
-#EXTINF:-1 group-title="teste", teste 01
-tvg-logo="https://i.ytimg.com/vi/EByua5sv5DI/mqdefault.jpg",As Princesas Dançarinas - Contos de Fadas (Dublado e Completo)
-https://www.youtube.com/watch?v=EByua5sv5DI
+
+
+
+
+
+
+
+
+
+
 
 
 

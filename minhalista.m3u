@@ -583,23 +583,6 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 
 
-#EXTINF:-1 group-title="Pluto TV", Natureza
-https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
-
-#EXTINF:-1 group-title="Pluto TV", Mistérios
-https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
-
-#EXTINF:-1 group-title="Pluto TV", Minha Obsessão Favorita
-https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
-
-#EXTINF:-1 group-title="Pluto TV", Karaoke porStingray 
-https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
-
-#EXTINF:-1 group-title="Pluto TV", Junior 
-https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
-
-#EXTINF:-1 group-title="Pluto TV", Investigação
-https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 
 #EXTINF:-1 group-title="Pluto TV", Filmes Nacionais
 https://jmp2.uk/plu-5f5a545d0dbf7f0007c09408.m3u8
@@ -628,24 +611,50 @@ https://jmp2.uk/plu-5f1210d14ae1f80007bafb1d.m3u8
 #EXTINF:-1 group-title="Pluto TV", Cine Clássicos
 https://jmp2.uk/plu-5fa1612a669ba0000702017b.m3u8
  
+#EXTINF:-1 group-title="Pluto TV", Investigação
+https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
+
+ 
 #EXTINF:-1 group-title="Pluto TV", Plena TV
 https://cdn.jmvstream.com/w/LVW-9591/LVW9591_PmXtgATnaS/playlist.m3u8
 
+#EXTINF:-1 group-title="Pluto TV", Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 group-title="Pluto TV", Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 group-title="Pluto TV", Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+
+#EXTINF:-1 group-title="Pluto TV", Karaoke porStingray 
+https://jmp2.uk/plu-604b99d633a72b00078e05ad.m3u8
 
 
 
 
 
+#EXTINF:-1 group-title="Pluto TV", Paisagens porS tingray 
+https://jmp2.uk/plu-604a8dedbca75b0007b1c753.m3u8
 
+#EXTINF:-1 group-title="Pluto TV", Showspor Stingray
+https://jmp2.uk/plu-604b91e0692f770007d9f33f.m3u8
 
+#EXTINF:-1 group-title="Pluto TV",  BETPlutoTV 
+https://jmp2.uk/plu-5ff768b6a4c8b80008498610.m3u8
 
-
+#EXTINF:-1 group-title="Pluto TV",  Comedy Central
+https://jmp2.uk/plu-5f357e91b18f0b00073583d2.m3u8
 
 #EXTINF:-1 group-title="Pluto TV", Nova Era TV
 http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 #EXTINF:-1 group-title="Pluto TV", Novo Tempo
 https://stream.live.novotempo.com/tv/smil:tvnovotempo.smil/playlist.m3u8
+
+#EXTINF:-1 group-title="Pluto TV",  Pluto TV Vida Real
+https://jmp2.uk/plu-5f32d4d9ec194100070c7449.m3u8
+
 
 #EXTINF:-1 group-title="Pluto TV", O Encantador de Cães
 https://jmp2.uk/plu-61099df8cee03b00074b2ecf.m3u8
@@ -665,7 +674,11 @@ https://jmp2.uk/plu-624b1c8d4321e200073ee421.m3u8
 #EXTINF:-1 group-title="Pluto TV", O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 
+#EXTINF:-1 group-title="Pluto TV", Junior 
+https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 
+#EXTINF:-1 group-title="Pluto TV",  Pluto TV Retrô
+https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 
 
 

@@ -583,6 +583,15 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 
 
+#EXTINF:-1 group-title="Pluto TV", Pluto TV Natureza
+https://jmp2.uk/plu-5f1213ba0ecebc00070e170f.m3u8
+
+#EXTINF:-1 group-title="Pluto TV", Pluto TV Mistérios
+https://jmp2.uk/plu-5fac52f142044f00078e2a51.m3u8
+
+#EXTINF:-1 group-title="Pluto TV", Pluto TV Minha Obsessão Favorita
+https://jmp2.uk/plu-61843f5e491af10007f7eefa.m3u8
+
 
 
 

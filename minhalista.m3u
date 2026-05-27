@@ -565,7 +565,8 @@ https://stmv4.voxtvhd.com.br/maikel4996/maikel4996/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", TV Cruzeiro do Brasil (TCB Rio)
 https://s1.tvr.ovh/video69413/video69413/playlist.m3u8
 
-
+#EXTINF:-1 group-title="Variedades", geFast 
+https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
 
 
@@ -616,9 +617,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsu
 #EXTINF:-1 group-title="Documentários", D+ TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentários", AmazonSat.br@SD"
-tvg-logo="https://i.imgur.com/7rjCS5i.png" group-title="Undefined",Amazon Sat (1080p)
+#EXTINF:-1 group-title="Documentários", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+
+
+
 
 
 

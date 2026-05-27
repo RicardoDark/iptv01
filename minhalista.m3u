@@ -778,7 +778,8 @@ https://stmv1.srvif.com/anime/anime/playlist.m3u8
 https://static.kanade.cl/hls/kanade.m3u8
 
 
-
+#EXTINF:-1 group-title="Animes", Loading" 
+https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
 
 
@@ -806,6 +807,14 @@ https://video08.logicahost.com.br/kanucatv/kanucatv/playlist.m3u8
 
 #EXTINF:-1 group-title="Desenhos", RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
+
+#EXTINF:-1 group-title="Desenhos", NickOnline 
+https://x1co.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="Desenhos", NickToonsBrasil
+https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
+
+
 
 
 

@@ -39,6 +39,9 @@ https://aovivo.maissbt.com/channel_720.m3u8
 #EXTINF:-1 group-title="TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
+#EXTINF:-1 group-title="TV aberta", SBT Cuiaba 
+https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
+
 #EXTINF:-1 group-title="TV aberta", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
@@ -568,6 +571,17 @@ https://s1.tvr.ovh/video69413/video69413/playlist.m3u8
 #EXTINF:-1 group-title="Variedades", geFast 
 https://amg00716-globo-amg00716c1-tcl-br-9495.playouts.now.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 group-title="Variedades", TVAldeia 
+https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
+
+#EXTINF:-1 group-title="Variedades", TVLifeAmerica 
+https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
+
+
+
+
+
+
 
 
 
@@ -752,6 +766,26 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="TV Livre", Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", RITTV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 group-title="TV Livre", TVUFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+
+#EXTINF:-1 group-title="TV Livre", TVZoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", TVCOM Maceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 group-title="TV Livre", Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
+
+
+
+
 
 
 

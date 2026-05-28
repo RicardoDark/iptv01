@@ -618,11 +618,10 @@ https://stmv1.samcast.com.br/paulohenrique5216/paulohenrique5216/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Documentários", Iblizz
-https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentários", NZTV
-https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", NATURE TIME
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentários", TV NND
 https://stmv2.voxtvhd.com.br/tvnnd/tvnnd/playlist.m3u8
@@ -633,17 +632,20 @@ https://video07.logicahost.com.br/rstv1/rstv1/playlist.m3u8
 #EXTINF:-1 group-title="Documentários", TV Atividade 
 https://srv1.zcast.com.br/yamin6118/yamin6118/playlist.m3u8
 
-#EXTINF:-1 group-title="Documentários", Conectv 
-https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
-
-#EXTINF:-1 group-title="Documentários", NATURE TIME
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00090-blueantmedia-naturetime-samsungfr/playlist.m3u8
-
 #EXTINF:-1 group-title="Documentários", D+ TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
 #EXTINF:-1 group-title="Documentários", AmazonSat
 https://amazonsat.brasilstream.com.br/hls/amazonsat/index.m3u8
+
+#EXTINF:-1 group-title="Documentários", NZTV
+https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Iblizz
+https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
+
+#EXTINF:-1 group-title="Documentários", Conectv 
+https://stream01.msolutionbrasil.com.br/hls/conectv/live.m3u8
 
 
 

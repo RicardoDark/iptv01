@@ -33,9 +33,6 @@ https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
 #EXTINF:-1 group-title="TV aberta", Record TV Rio
 https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 group-title="TV aberta",  TV Serra Dourada
-https://www.youtube.com/watch?v=LLpNUqHVam8&source_ve_path=NzY3NTg&embeds_referring_euri=https%3A%2F%2Fwww.cxtv.com.br%2F
-
 #EXTINF:-1 group-title="TV aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 
@@ -50,9 +47,6 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 #EXTINF:-1 group-title="TV aberta", TV CULTURAL HD
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
-
-#EXTINF:-1 group-title="TV aberta", TV Tropical (Rede Record RN)
-https://video08.logicahost.com.br/portaldatropical02/portaldatropical02/playlist.m3u8
 
 #EXTINF:-1 group-title="TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -837,6 +831,9 @@ https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 #EXTINF:-1 group-title="Games", Play TV 
 https://isaocorp.cloudecast.com/playtv/index.fmp4.m3u8
 
+#EXTINF:-1 group-title="Games", PlayTV.br
+https://isaocorp.cloudecast.com/playtv/index.m3u8
+
 #EXTINF:-1 group-title="Games", YEEAAH
 https://srv5.zcast.com.br/yeeaah/yeeaah/playlist.m3u8
 
@@ -1030,17 +1027,11 @@ https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 #EXTINF:-1 group-title="clipes", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 group-title="clipes", Aamar Bangla
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/amarbanglatv.stream/playlist.m3u8
-
 #EXTINF:-1 group-title="clipes", 4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="clipes", YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
-
-#EXTINF:-1 group-title="clipes", ATN Music
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnmusic.stream/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8

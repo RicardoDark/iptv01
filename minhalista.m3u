@@ -27,59 +27,59 @@ https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="TV aberta", Record TV
+#EXTINF:-1 group-title="📺TV aberta", Record TV
 https://hplay.tv/tvlitoralrn@hplay/555ss445/227.m3u8
 
-#EXTINF:-1 group-title="TV aberta", Record TV Rio
+#EXTINF:-1 group-title="📺TV aberta", Record TV Rio
 https://gerenciar.vivatele.com/live/viva_padrao/viva2384/13.m3u8
 
-#EXTINF:-1 group-title="TV aberta", SBT SP
+#EXTINF:-1 group-title="📺TV aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 
-#EXTINF:-1 group-title="TV aberta", SBT Interior
+#EXTINF:-1 group-title="📺TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", SBT Cuiaba 
+#EXTINF:-1 group-title="📺TV aberta", SBT Cuiaba 
 https://video09.logicahost.com.br/sbtcuiaba/sbtcuiaba/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV Cultura
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV CULTURAL HD
+#EXTINF:-1 group-title="📺TV aberta", TV CULTURAL HD
 https://video10.logicahost.com.br/culturaltvhd/culturaltvhd/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", Record TV Goiás
+#EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", Reviva TV
+#EXTINF:-1 group-title="📺TV aberta", Reviva TV
 https://stmv.webtvninjas.com.br/webtvni1/webtvni1/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", Tela Brasil
+#EXTINF:-1 group-title="📺TV aberta", Tela Brasil
 https://stmv.webtvninjas.com.br/mailson6054/mailson6054/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", Rede Brasileira de TV
+#EXTINF:-1 group-title="📺TV aberta", Rede Brasileira de TV
 https://video02.logicahost.com.br/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV A Crítica
+#EXTINF:-1 group-title="📺TV aberta", TV A Crítica
 https://cdn.live.br1.jmvstream.com/w/LVW-20715/LVW20715_50E3x2MCm2/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV Vila Real (Record MT) 
+#EXTINF:-1 group-title="📺TV aberta", TV Vila Real (Record MT) 
 https://cdn.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/playlist.m3u8
 
 
-#EXTINF:-1 group-title="TV aberta", Rede Globo 
+#EXTINF:-1 group-title="📺TV aberta", Rede Globo 
 https://cors-proxy.cooks.fyi/http://hls1.sua.tv/live/globotvbahiafhdbr2/s.m3u8
 
-#EXTINF:-1 group-title="TV aberta", RedeTV Parana
+#EXTINF:-1 group-title="📺TV aberta", RedeTV Parana
 https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TVBrasil
+#EXTINF:-1 group-title="📺TV aberta", TVBrasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV Cancao Nova 
+#EXTINF:-1 group-title="📺TV aberta", TV Cancao Nova 
 https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.m3u8
 
-#EXTINF:-1 group-title="TV aberta", TV Cultura
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 
@@ -97,67 +97,67 @@ https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
 
 
-#EXTINF:-1 group-title="Filmes", TV Cidade Brasil
+#EXTINF:-1 group-title="🎬Filmes", TV Cidade Brasil
 https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Darkflix TV
+#EXTINF:-1 group-title="🎬Filmes", Darkflix TV
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
 
-#EXTINF:-1 group-title="Filmes", CINE CATÁSTROFE
+#EXTINF:-1 group-title="🎬Filmes", CINE CATÁSTROFE
 https://video05.logicahost.com.br/cinecatastrofe/cinecatastrofe/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", MEGA ONE TV
+#EXTINF:-1 group-title="🎬Filmes", MEGA ONE TV
 https://stmv6.voxtvhd.com.br/megaonetv/megaonetv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Tv Explosão Fm
+#EXTINF:-1 group-title="🎬Filmes", Tv Explosão Fm
 https://stmv1.liveplushd.com.br/tvexplosaofm/tvexplosaofm/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Filmelier TV
+#EXTINF:-1 group-title="🎬Filmes", Filmelier TV
 https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
 
-#EXTINF:-1 group-title="Filmes", Sony One Cinema
+#EXTINF:-1 group-title="🎬Filmes", Sony One Cinema
 https://spt-sonyoneclassicas-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Sessão Trash
+#EXTINF:-1 group-title="🎬Filmes", Sessão Trash
 https://amg00711-zylo-amg00711c12-plex-us-8636.playouts.now.amagi.tv/playlist1080p.m3u8
 
-#EXTINF:-1 group-title="Filmes", MOVIE SPHERE
+#EXTINF:-1 group-title="🎬Filmes", MOVIE SPHERE
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=6178
 
-#EXTINF:-1 group-title="Filmes", TVNA FILMES
+#EXTINF:-1 group-title="🎬Filmes", TVNA FILMES
 https://stmv6.voxtvhd.com.br/tvnafilmes/tvnafilmes/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TV DIFUSÃO
+#EXTINF:-1 group-title="🎬Filmes", TV DIFUSÃO
 https://tvdsite.acessaradios.com.br/tvdsite/tvdsite.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", ADRENALINA PURA TV
+#EXTINF:-1 group-title="🎬Filmes", ADRENALINA PURA TV
 https://amg00740-sofa-amg00740c7-tcl-us-7126.playouts.now.amagi.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", TOP MIX TV
+#EXTINF:-1 group-title="🎬Filmes", TOP MIX TV
 https://video01.logicahost.com.br/topmixtvfilmes/topmixtvfilmes/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", CHANNEL 1
+#EXTINF:-1 group-title="🎬Filmes", CHANNEL 1
 https://stmv2.painelvideocast.com.br/movies1/movies1/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Sony One Emoções
+#EXTINF:-1 group-title="🎬Filmes", Sony One Emoções
 https://spt-sonyoneemocoes-1-br.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", SWT
+#EXTINF:-1 group-title="🎬Filmes", SWT
 https://srv2.zcast.com.br/edgard4915/edgard4915/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", SBC
+#EXTINF:-1 group-title="🎬Filmes", SBC
 https://video01.brascast.com/rede1250/rede1250/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", Tv Clássicos do Cinema
+#EXTINF:-1 group-title="🎬Filmes", Tv Clássicos do Cinema
 https://live20.bozztv.com/giatvplayout7/giatv-208272/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", NBX TV
+#EXTINF:-1 group-title="🎬Filmes", NBX TV
 https://stmv7.voxtvhd.com.br/nbxtv/nbxtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", NBX TV PIPOCA
+#EXTINF:-1 group-title="🎬Filmes", NBX TV PIPOCA
 https://stmv4.voxtvhd.com.br/nbxpipoca/nbxpipoca/playlist.m3u8
 
-#EXTINF:-1 group-title="Filmes", 24 Horas Tv
+#EXTINF:-1 group-title="🎬Filmes", 24 Horas Tv
 https://stmv8.samcast.com.br/newswire7636/newswire7636/playlist.m3u8
 
 
@@ -816,22 +816,22 @@ http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
 
 
 
-#EXTINF:-1 group-title="Animes", Anime TV
+#EXTINF:-1 group-title="🎎Animes", Anime TV
 https://stmv2.painelvideocast.com.br/animetv/animetv/chunklist_w1378281032.m3u8
 
-#EXTINF:-1 group-title="Animes", Loading" 
+#EXTINF:-1 group-title="🎎Animes", Loading" 
 https://stmv1.srvif.com/loadingtv/loadingtv/playlist.m3u8
 
-#EXTINF:-1 group-title="Animes", Otaku
+#EXTINF:-1 group-title="🎎Animes", Otaku
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
-#EXTINF:-1 group-title="Animes", geekdot
+#EXTINF:-1 group-title="🎎Animes", geekdot
 https://stream.ichibansys.com:3764/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="Animes", Jetix
+#EXTINF:-1 group-title="🎎Animes", Jetix
 https://s1.tvr.ovh/jetix/jetix/playlist.m3u8
 
-#EXTINF:-1 group-title="Animes", Otaku Sign Tv
+#EXTINF:-1 group-title="🎎Animes", Otaku Sign Tv
 https://stmv1.srvif.com/anime/anime/playlist.m3u8
 
 
@@ -873,70 +873,70 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="clipes", Kpop TV Live
+#EXTINF:-1 group-title="🎶clipes", Kpop TV Live
 https://live20.bozztv.com/giatv/giatv-kpoptvplay/kpoptvplay/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", KPOP TV PLAY
+#EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
 
-#EXTINF:-1 group-title="clipes", ZOOM MUSIC
+#EXTINF:-1 group-title="🎶clipes", ZOOM MUSIC
 https://stmv5.samcast.com.br/zoommusic/zoommusic/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", +MaisUm
+#EXTINF:-1 group-title="🎶clipes", +MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 group-title="clipes", MUSIC TOP
+#EXTINF:-1 group-title="🎶clipes", MUSIC TOP
 https://stream-gtlc.telecentro.net.ar/hls/musictophls/main.m3u8
 
-#EXTINF:-1 group-title="clipes", TV 538
+#EXTINF:-1 group-title="🎶clipes", TV 538
 https://radio538.prd1.talpatvcdn.nl/22e9bbf9616547d7bc162c993009c533/index_1.m3u8
 
-#EXTINF:-1 group-title="clipes" M20 TV
+#EXTINF:-1 group-title="🎶clipes" M20 TV
 https://4c4b867c89244861ac216426883d1ad0.msvdn.net/live/S62628868/uhdWBlkC1AoO/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", RETRO MUSIC TELEVISION
+#EXTINF:-1 group-title="🎶clipes", RETRO MUSIC TELEVISION
 https://newstream.mediawork.cz/retrotv/smil:retrotv_new.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", RETRO PLUS TV
+#EXTINF:-1 group-title="🎶clipes", RETRO PLUS TV
 https://scl.edge.grupoz.cl/retroplustvuno/live/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", NOW 90S & 00S
+#EXTINF:-1 group-title="🎶clipes", NOW 90S & 00S
 https://amg01076-amg01076c19-rakuten-gb-8653.playouts.now.amagi.tv/playlist/amg01076-lightning-now90s00s-rakutengb/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", NOW 70S
+#EXTINF:-1 group-title="🎶clipes", NOW 70S
 https://lightning-now70s-samsungnz.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-1 group-title="clipes", KRONEHIT TV
+#EXTINF:-1 group-title="🎶clipes", KRONEHIT TV
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", vintage TV
+#EXTINF:-1 group-title="🎶clipes", vintage TV
 https://video01.brascast.com/rogerio7271/rogerio7271/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", 4FUN TV
+#EXTINF:-1 group-title="🎶clipes", 4FUN TV
 https://stream.4fun.tv:8888/hls/4f.m3u8
 
-#EXTINF:-1 group-title="clipes", PORTAL FOXMIX
+#EXTINF:-1 group-title="🎶clipes", PORTAL FOXMIX
 https://panel.tvstream.cl:1936/8040/8040/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", TV PARADISE
+#EXTINF:-1 group-title="🎶clipes", TV PARADISE
 https://stmv5.samcast.com.br/marcos3057/marcos3057/playlist.m3u8
 
 #EXTINF:-1 group-title="clipes", TOP TV
 https://isaocorp.cloudecast.com/toptv/index.m3u8
 
-#EXTINF:-1 group-title="clipes", 4Kurd
+#EXTINF:-1 group-title="🎶clipes", 4Kurd
 https://4kuhls.persiana.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="clipes", YOU & ME
+#EXTINF:-1 group-title="🎶clipes", YOU & ME
 https://stream10.xdevel.com/video0s977798-2239/stream/playlist.m3u8
 
-#EXTINF:-1 group-title="clipes", Atomic TV
+#EXTINF:-1 group-title="🎶clipes", Atomic TV
 https://atomic.streamnet.ro/atomictv.m3u8
 
-#EXTINF:-1 group-title="clipes", Company TV
+#EXTINF:-1 group-title="🎶clipes", Company TV
 https://5929b138b139d.streamlock.net/CompanyTV/smil:CompanyTV.smil/master.m3u8
 
-#EXTINF:-1 group-title="clipes", Deluxe Music
+#EXTINF:-1 group-title="🎶clipes", Deluxe Music
 https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/kronehit.png" group-title="🎶clipes", KroneHIT

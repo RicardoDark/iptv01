@@ -82,7 +82,8 @@ https://5c65286fc6ace.streamlock.net/cancaonova/CancaoNova.stream_720p/playlist.
 #EXTINF:-1 group-title="📺TV aberta", TV Cultura
 https://player-tvcultura.stream.uol.com.br/live/tvcultura.m3u8
 
-
+#EXTINF:-1 group-title="📺TV aberta", TV Cultura
+https://rnw-rn.otteravision.com/rnw/rn/rnw_rn.m3u8
 
 
 
@@ -263,6 +264,8 @@ https://video10.logicahost.com.br/erenews/erenews/playlist.m3u8
 #EXTINF:-1 group-title="🎬Filmes", Mega Cine TV
 https://mlb.essastream.com:8081/megacinetv/index.m3u8
 
+#EXTINF:-1 group-title="🎬Filmes", Clube do  Terror
+https://d1si3n1st4nkgb.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_samsungtvplus-xumo/c158ef8d-e83b-4572-88ad-3cd2755b8876/0.m3u8
 
 
 
@@ -601,6 +604,7 @@ https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
 
 
+
 #EXTINF:-1 group-title="🐫Animais", NZTV
 https://stmv1.transmissaodigital.com/nztv/nztv/playlist.m3u8
 
@@ -662,7 +666,9 @@ https://distributionsjustepourrire-justforlaughsgags-1-br.samsung.wurl.tv/playli
 #EXTINF:-1 group-title="🤪Pegadinhas", FailArmy
 https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🤪Pegadinhas", Mr Bean Live Action
+https://failarmy-international-br.samsung.wurl.tv/playlist.m3u8
+https://amg00627-amg00627c40-rakuten-uk-5725.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanpopupcc-rakutenuk/playlist.m3u8
 
 
 
@@ -720,7 +726,8 @@ https://d39yjeivnywvts.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="🛻Automóveis", WSN TV do Carro
 https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 
-
+#EXTINF:-1 group-title="🛻Automóveis", Canal Motor
+https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
 
 
@@ -867,7 +874,7 @@ https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist
 #EXTINF:-1 group-title="🎈Desenhos", RETRÔ CARTOON
 https://stmv1.video.brstream.com.br/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", Nick Online 
+#EXTINF:-1 group-title="🎈Desenhos", NickOnline 
 https://x1co.com.br/hls/stream.m3u8
 
 #EXTINF:-1 group-title="🎈Desenhos", Nick Toons Brasil
@@ -875,6 +882,12 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Jetsons.png" group-title="🎈Desenhos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
+
+
+
+
+
+
 
 
 

@@ -682,6 +682,66 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
+
+
+#EXTINF:-1 group-title="🫤TV Livre", Tv Serra
+https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
+https://rtisoluctions.com.br/hls/test.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Rede Mais Família 
+https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", TV Poços
+https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", COMBATV
+https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Vivax Tv 
+https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Tv Mais Brasil
+https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Tv Interior
+https://live.tvinterior.com.br/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Nova Barreiros Web
+https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Web Tv RMB 
+https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
+
+#EXTINF:-1 group-title="🫤TV Livre", UMA TV 
+https://umatv.nuvemplay.live/hls/stream.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Tv Votuline
+https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", RITTV
+https://acesso.ecast.site:3648/live/ritlive.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", TVUFOP
+https://app.tvufop.com.br/hls/tvufop.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", TVZoom
+https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", TVCOM Maceio
+https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Unisul TV
+https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
+
+#EXTINF:-1 group-title="🫤TV Livre", Nova Era TV
+http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="🌶️Culinárias", COZINHANDO TV
 https://sistemastr.tropicalmoonmedia.com/live/56BE17DB16EB76C9F2DDB8346F4DFA4E/10.m3u8
 
@@ -760,70 +820,6 @@ https://stmv2.painelvideocast.com.br/kettv/kettv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎮Games", WEB Canal Blecaute TV
 https://stmv2.srvsh.com.br/deivisondaconceicao4233/deivisondaconceicao4233/playlist.m3u8
-
-
-
-
-
-
-
-#EXTINF:-1 group-title="🫤TV Livre", Tv Serra
-https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Porto Alegre 24 Horas TV (Pop Tv)
-https://rtisoluctions.com.br/hls/test.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Rede Mais Família 
-https://video09.logicahost.com.br/redefamilia/redefamilia/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", TV Poços
-https://video01.logicahost.com.br/tvpocos/tvpocos/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", COMBATV
-https://aym-cbtv.otteravision.com/aym/cbtv/cbtv.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Vivax Tv 
-https://stmv2.samcast.com.br/marcus8647/marcus8647/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Tv Mais Brasil
-https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Tv Interior
-https://live.tvinterior.com.br/hls/stream.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Nova Barreiros Web
-https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Web Tv RMB 
-https://video01.brascast.com/wtv39153/wtv39153/playlist.m3u8?hls_ctx=21m9z2ig
-
-#EXTINF:-1 group-title="🫤TV Livre", UMA TV 
-https://umatv.nuvemplay.live/hls/stream.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Tv Votuline
-https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", RITTV
-https://acesso.ecast.site:3648/live/ritlive.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", TVUFOP
-https://app.tvufop.com.br/hls/tvufop.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", TVZoom
-https://cdn.jmvstream.com/w/LVW-9730/LVW9730_LmUwslM8jt/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", TVCOM Maceio
-https://srv5.zcast.com.br/tvcommaceio/tvcommaceio/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", Unisul TV
-https://sitetv.brasilstream.com.br/hls/sitetv/index.m3u8?token=
-
-#EXTINF:-1 group-title="🫤TV Livre", Nova Era TV
-http://wz3.dnip.com.br:1935/novaeratv/novaeratv.sdp/live.m3u8
-
-
-
-
 
 
 

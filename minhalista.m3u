@@ -246,8 +246,6 @@ https://cnn.hostlagarto.com/megacinetv/playlist.m3u8
 
 
 
-
-
 #EXTINF:-1 group-title="📼Variedades", TV RIO MADEIRA
 https://stmv1.srvif.com/tvriomadeira/tvriomadeira/playlist.m3u8
 
@@ -602,7 +600,14 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
+#EXTINF:-1 group-title="🫤TV Livre", Novelas Prime
+https://srv3.zcast.com.br/lucas9425/lucas9425/playlist.m3u8
 
+#EXTINF:-1 group-title="🫤TV Livre", Rede Novelas
+https://srv3.zcast.com.br/lucas6393/lucas6393/playlist.m3u8
+
+#EXTINF:-1 group-title="🫤TV Livre", Terra Brasil TV
+https://stmv7.samcast.com.br/elias9801/elias9801/playlist.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8

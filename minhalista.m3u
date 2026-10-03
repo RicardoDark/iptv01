@@ -742,7 +742,7 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 #EXTINF:-1 group-title="🎶clipes", THE K-POP
 tvg-logo="" group-title="YouTube",THE K-POP 24/7 Live
-htt  ps://www.yo   utu  be.co  m/watc  h?v=JVocS7Yftw8
+https://www.youtube.com/watch?v=JVocS7Yftw8
 
 #EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8

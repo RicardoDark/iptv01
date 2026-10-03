@@ -24,9 +24,14 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
 
+#EXTINF:-1 group-title="📺TV aberta", SBT Interior
+https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
+
 #EXTINF:-1 group-title="📺TV aberta", SBT SP
 https://aovivo.maissbt.com/channel_720.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
+https://cdn.live.br1.jmvstream.com/w/LVW-10841/LVW10841_mT77z9o2cP/chunklist.m3u8
 
 #EXTINF:-1 group-title="📺TV aberta", Record TV Goiás
 https://cdn.live.br1.jmvstream.com/w/LVW-10842/LVW10842_513N26MDBL/chunklist.m3u8
@@ -63,10 +68,11 @@ https://tv01.zas.media:1936/redetvparana/redetvparana/playlist.m3u8
 #EXTINF:-1 group-title="📺TV aberta", TVBrasil
 https://tvbrasil-stream.ebc.com.br/index.m3u8
 
+#EXTINF:-1 group-title="📺TV aberta", TV Aberta
+https://br5093.streamingdevideo.com.br/tvaberto/tvaberto/chunklist_w2063603411.m3u8
 
-
-
-
+#EXTINF:-1 group-title="📺TV aberta", CazéTV
+https://amg01391-amg01391c10-tcl-br-9630.playouts.now.amagi.tv/480p-cc/index.m3u8
 
 
 
@@ -734,8 +740,9 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🎶clipes", Kpop TV Live
-https://newidco-newkid-1-eu.xiaomi.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="🎶clipes", THE K-POP
+tvg-logo="" group-title="YouTube",THE K-POP 24/7 Live
+https://www.youtube.com/watch?v=JVocS7Yftw8
 
 #EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8

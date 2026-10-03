@@ -22,8 +22,7 @@ https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
 
-#EXTINF:-1 group-title="📺TV aberta", GLOBO AO VIVO AGORA
-https://www.youtube.com/watch?v=7brcDsVVo1g
+
 
 #EXTINF:-1 group-title="📺TV aberta", SBT Interior
 https://cdn.live.br1.jmvstream.com/w/LVW-10801/LVW10801_Xvg4R0u57n/chunklist.m3u8
@@ -740,11 +739,6 @@ https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
 
 
-
-#EXTINF:-1 group-title="🎶clipes", THE K-POP
-tvg-logo="" group-title="YouTube",THE K-POP 24/7 Live
-https://www.youtube.com/watch?v=JVocS7Yftw8
-
 #EXTINF:-1 group-title="🎶clipes", KPOP TV PLAY
 https://d1243acc59954ef9bdd02bd9d13025cb.mediatailor.us-east-1.amazonaws.com/v1/manifest/f4e8c53a8367a5b58e20ce054ea3ce25a3e904d3/LG-br_NewKPop/38cb1dc9-a556-4184-b450-00a2da6dae62/3.m3u8
 
@@ -799,8 +793,8 @@ https://sdn-global-live-streaming-packager-cache.3qsdn.com/13456/13456_264_live.
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
-#EXTINF:-1 group-title="-Filmes-", CIDADE FANTASMA
-https://www.youtube.com/watch?v=LmdrecEcU3g
+
+
 
 
 #EXTINF:-1 tvg-name="Encontro Marcado

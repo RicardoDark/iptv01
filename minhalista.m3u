@@ -800,6 +800,9 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="🎥movie", Desligue! (2026)
 https://archive.org/download/desligue.-2026/Desligue.2026.mp4
 
+#EXTINF:-1 group-title="🎥movie", Barbarella
+https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dublado%29.mp4
+
 #EXTINF:-1 group-title="🎥movie", Capitã Marvel 2019
 https://dn760001.eu.archive.org/0/items/Capita_marvel_.mkv/%7BWWW.BLUDV.TV%7D%20Capitã%20Marvel%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Capitã.Marvel.2019.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mp4
 
@@ -967,9 +970,6 @@ https://archive.org/download/f20767009c736366bac05f8b4719165800fa6ba96016a22eeb6
 #EXTINF:-1 group-title="🎥movie", A Balada De Buster Scruggs
 https://archive.org/download/a-balada-de-buster-scruggs-2018/A%20Balada%20de%20Buster%20Scruggs%20%282018%29.mp4
 
-#EXTINF:-1 group-title="🎥movie", Barbarella 
-//ok.ru/videoembed/36400073458?nochat=1
-
 #EXTINF:-1 group-title="🎥movie", Confusão no Velho Oeste
 https://dn711408.ca.archive.org/0/items/filme-confusao-no-velho-oeste/Filme_%20Confusão%20no%20Velho%20Oeste%20%28Gêmeas%20Olsen_%201993%29.mp4
 
@@ -991,6 +991,7 @@ https://ia800407.us.archive.org/29/items/o-resgate-de-jessica-1989-dual-576p-web
 #EXTINF:-1 group-title="🎥movie", Morando Com O Perigo. 1990
 https://archive.org/download/morando-com-o-perigo.-1990/Morando%20com%20o%20Perigo.1990.mp4
 
+#EXTINF:-1 group-title="🎥movie", Poder Alem Da Vida 2006
 
 
 
@@ -1106,11 +1107,14 @@ https://archive.org/download/a-festa-do-monstro-maluco-1967-remasterizado/A%20Fe
 #EXTINF:-1 group-title="🎥movie Anime", Dragon Ball Z: O Filme (1997)
 https://archive.org/download/anuncio-dbz-o-filme/Anuncio%20DBZ%20o%20Filme.mp4
 
+#EXTINF:-1 group-title="🎥Thumbelina", Pokémon 2000
+https://ia800405.us.archive.org/22/items/PKM2000TCFUN/Pokémon%202000%20O%20Filme%20%28Telecine%20Fun%29%20%5BTV-Rip%5D.ia.mp4
 
+#EXTINF:-1 group-title="🎥movie Anime", Kitaro Tanjou - Gegege No Nazo (CdA & Gekigá)
+https://dn721907.ca.archive.org/0/items/nononovo-kitaro-2023/%5BCdA%20%26%20Gekiga%5D%20Kitaro%20Tanjou%20-%20Gegege%20No%20Nazo.mp4
 
-
-
-
+#EXTINF:-1 group-title="🎥movie Anime", Dead Leaves
+https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-movie-bd-1080p-dual-audio-8-fff-951-d/%5BFUCKILL%20e%20gregoryluis09%5D%20Dead%20Leaves%20-%20Movie%20%5BBD%201080p%20Dual-Áudio%5D%20%5B8FFF951D%5D.mp4
 
 
 
@@ -1126,16 +1130,6 @@ https://archive.org/download/thumbelinadvdbr/THUMBELINA.mp4
 
 #EXTINF:-1 group-title="🎥Thumbelina", Thumbelina=03
 https://dn710204.ca.archive.org/0/items/thumbelinadvdbr/THUMBELINA3.mp4
-
-
-
-#EXTINF:-1 group-title="🎥Thumbelina", Pokémon 2000
-https://ia800405.us.archive.org/22/items/PKM2000TCFUN/Pokémon%202000%20O%20Filme%20%28Telecine%20Fun%29%20%5BTV-Rip%5D.ia.mp4
-
-
-
-
-
 
 
 
@@ -1291,6 +1285,7 @@ https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20A
 
 #EXTINF:-1 group-title="🎥Nadja do Amanhã", Nadja do Amanhã=50
 https://archive.org/download/nadja-do-amanha-brasil-dublado/%5BSubstiputo%5D%20Ashita%20no%20Nadja%20-%20TV%2050%20%5BDVD%20720p%20Dual-%C3%81udio%5D%20%5B2FEE4551%5D.mp4
+
 
 
 
@@ -1520,3 +1515,84 @@ https://archive.org/download/solitario-errante-koutetsu-tenshi-kurumi-2-shiki-dv
 #EXTINF:-1 group-title="🎥Barom One", Steel Angel Kurumi 2 - 12
 https://archive.org/download/solitario-errante-koutetsu-tenshi-kurumi-2-shiki-dvdrip/Steel%20Angel%20Kurumi%202%20Dublado%20-%20Epis%C3%B3dio%2012.mp4
 
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 01
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2001%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 02
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2002%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 03
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2003%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 04
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2004%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 05
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2005%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 06
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2006%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 07
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2007%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 08
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2008%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 09
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2009%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 10
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2010%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 11
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2011%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 12
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2012%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 13
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2013%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 14
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2014%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 15
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2015%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 16
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2016%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 17
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2017%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 18
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2018%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 19
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2019%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 20
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2020%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 21
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2021%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 22
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2022%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 23
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2023%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei 24
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%2024%20%28BD%20Hi10P%201308x720%29.mp4
+
+#EXTINF:-1 group-title="🎥Solty Rei", Solty Rei - Episódio Extra
+https://archive.org/download/solty-rei-dublado-brazil/%5BYusukeFLA%5D%20SOLTY%20REI%20TV%20Epis%C3%B3dio%20Extra%20%28BD%20Hi10P%201308x720%29.mp4

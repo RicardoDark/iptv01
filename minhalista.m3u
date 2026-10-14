@@ -769,8 +769,16 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="Filmes", Desligue! (2026)
+
+
+
+
+
+#EXTINF:-1 tvg-name="Suspense: Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Legendados",Suspense: Desligue! (2026)
 https://archive.org/download/desligue.-2026/Desligue.2026.mp4
+
+
+
 
 #EXTINF:-1 group-title="Filmes", Barbarella
 https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dublado%29.mp4
@@ -979,40 +987,15 @@ https://archive.org/download/morando-com-o-perigo.-1990/Morando%20com%20o%20Peri
 
 
 
-#EXTINF:-1 group-title="season", O Auto da Compadecida-01
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-02
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_12.mp4
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-03
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_13.mp4
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-04
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_14.mp4
-
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-05
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_15.mp4
-
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-06
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_2.mp4
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-07
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_22.mp4
-
-#EXTINF:-1 group-title="season", O Auto da Compadecida-08
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_23.mp4
 
 
 
+#EXTINF:-1 group-title="Animação", Shiki Oriori O Sabor Da Juventude
+https://archive.org/download/shiki-oriori-o-sabor-da-juventude/Shiki%20Oriori%20O%20Sabor%20da%20Juventude.mp4
 
 
 
-
-
-#EXTINF:-1 tvg-name="Ciranda de Pedra S01E67" tvg-logo="https://image.tmdb.org/t/p/w400/yClxmfGNnUIicEj7LpyRKPi10ho.jpg" group-title="Novelas | Brasileiras",Ciranda de Pedra S01E67
+#EXTINF:-1 tvg-name="Ciranda de Pedra S01E1" tvg-logo="https://image.tmdb.org/t/p/w400/yClxmfGNnUIicEj7LpyRKPi10ho.jpg" group-title="Novelas | Brasileiras",Ciranda de Pedra S01E67
 http://ppwrz.sbs:80/series/silmar12899/silmar128999/244807.mp4
 
 
@@ -1089,6 +1072,26 @@ https://dn721907.ca.archive.org/0/items/nononovo-kitaro-2023/%5BCdA%20%26%20Geki
 #EXTINF:-1 group-title="Animação", Dead Leaves
 https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-movie-bd-1080p-dual-audio-8-fff-951-d/%5BFUCKILL%20e%20gregoryluis09%5D%20Dead%20Leaves%20-%20Movie%20%5BBD%201080p%20Dual-Áudio%5D%20%5B8FFF951D%5D.mp4
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="season", O Auto da Compadecida-01
+https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
 
 
 

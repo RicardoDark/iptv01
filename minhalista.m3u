@@ -12,10 +12,7 @@ https://amogonetworx-grjngo-1-eu.plex.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="🐎TV faroeste", GRJNGO 2
 https://amogonetworx-grjngo-2-eu.plex.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 group-title="🐎TV faroeste", Multi Canais
-https://stmv2.painelvideocast.com.br/multicanais/multicanais/playlist.m3u8
-
-#EXTINF:-1 group-title="🐎TV faroeste", rede brasil de televisão
+#EXTINF:-1 group-title="🐎TV faroeste", rede brasil
 https://redebrasil.nuvemplay.live/hls/stream.m3u8
 
 
@@ -93,8 +90,7 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 #EXTINF:-1 group-title="🎬Telecine", Darkflix TV
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
 
-#EXTINF:-1 group-title="🎬Telecine", Filmelier TV
-https://amg00740-sofa-amg00740c8-tcl-us-7180.playouts.now.amagi.tv/1080p-cc/index.m3u8
+
 
 
 
@@ -300,8 +296,6 @@ https://stmv2.srvif.com/nortebrtv/nortebrtv/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", NOVA BARREIROS WEB TV
 https://stmv1.srvif.com/novabarreiros/novabarreiros/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", Tv Futuro
-https://tv03.zas.media:1936/tvfuturo/tvfuturo/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Canal Plural
 https://stmv2.samcast.com.br/osc6197/osc6197/playlist.m3u8
@@ -349,8 +343,6 @@ https://utvsite.acessaradios.com.br/utvsite/utvsite.stream/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", REDE SPTV
 https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", MBC BRASIL.TV
-https://stmv8.samcast.com.br/eudes3221/eudes3221/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Tv Clube Web
 https://5c483b9d1019c.streamlock.net/8186/8186/chunklist_w255663103.m3u8
@@ -412,12 +404,6 @@ https://stmv4.voxtvhd.com.br/tvconectados/tvconectados/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", UNOTV STREAMING
 https://unotvstreaming.nuvemplay.live/hls/stream.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TV JAPÃO
-https://pop.uniquetv.com.br/tvjapao/video.m3u8
-
-#EXTINF:-1 group-title="📼Variedades", Tv Alpha
-https://pop.uniquetv.com.br/reisenclubetv/video.m3u8
-
 #EXTINF:-1 group-title="📼Variedades", TV MAIS BRASIL
 https://stmv8.samcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 
@@ -445,9 +431,6 @@ https://sistemavrt2023.vrtchannel.tv.br:3626/hybrid/play.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Nossa TV
 https://video01.logicahost.com.br/canal09/canal09/playlist.m3u8
-
-#EXTINF:-1 group-title="📼Variedades", Tv Liberdade Pacajus
-https://stmv1.paineldevideo.com.br/liberdaderadioetv/liberdaderadioetv/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", ORTVWEB
 https://tv.ortv.com.br/hls/stream.m3u8
@@ -550,8 +533,6 @@ https://video03.logicahost.com.br/redemundotvsat/redemundotvsat/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="🫤TV Livre", Terra Brasil TV
-https://stmv7.samcast.com.br/elias9801/elias9801/playlist.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Serra
 https://stmv7.samcast.com.br/nidio8102/nidio8102/playlist.m3u8
@@ -579,9 +560,6 @@ https://umatv.nuvemplay.live/hls/stream.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", Tv Votuline
 https://srv5.zcast.com.br/votuline/votuline/playlist.m3u8
-
-#EXTINF:-1 group-title="🫤TV Livre", RITTV
-https://stream.ecast.com.br/rit-tv/index.m3u8
 
 #EXTINF:-1 group-title="🫤TV Livre", TVUFOP
 https://app.tvufop.com.br/hls/tvufop.m3u8
@@ -614,9 +592,6 @@ https://amg00047-tastemade-amg00047c5-plex-us-2273.playouts.now.amagi.tv/playlis
 
 #EXTINF:-1 group-title="🌶️Culinárias", MASTERCHEF BRASIL
 https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/amg00627-banijayfast-masterchefbrazil-plexus/playlist.m3u8
-
-#EXTINF:-1 group-title="🌶️Culinárias", TRAVEL AND FOOD
-https://pop.uniquetv.com.br/travelfood/video.m3u8
 
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
@@ -1037,7 +1012,8 @@ https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_23.mp4
 
 
 
-
+#EXTINF:-1 tvg-name="Ciranda de Pedra S01E67" tvg-logo="https://image.tmdb.org/t/p/w400/yClxmfGNnUIicEj7LpyRKPi10ho.jpg" group-title="Novelas | Brasileiras",Ciranda de Pedra S01E67
+http://ppwrz.sbs:80/series/silmar12899/silmar128999/244807.mp4
 
 
 
@@ -1116,6 +1092,10 @@ https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-mov
 
 
 
+
+
+#EXTINF:-1 tvg-name="Thumbelina S1E1" tvg-logo="https://www.dropbox.com/scl/fi/86gb22q1oiofeqqp1rak6/Thumbelina.png?rlkey=bk6v3np7jyw27ba1xh1ov6m51&st=t9cnffqc&dl=1" group-title="Séries | Globoplay",Thumbelina S1E1
+https://archive.org/download/thumbelinadvdbr/THUMBELINA.mp4
 
 
 

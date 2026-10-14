@@ -788,7 +788,7 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-name="Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Suspense",: Desligue! (2026)
+#EXTINF:-1 tvg-name="Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Suspense", Desligue! (2026)
 https://archive.org/download/desligue.-2026/Desligue.2026.mp4
 
 #EXTINF:-1 tvg-name="Barbarella" tvg-logo="https://www.dropbox.com/scl/fi/nz3rpgz87mndw6pfsojzg/Barbarella.png?rlkey=m8la1cryjtd8k8fk4hgm7wo1s&st=5acqh9cq&dl=1" group-title=1"Filmes | Ficção Científica", Barbarella

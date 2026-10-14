@@ -774,17 +774,43 @@ https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-name="Suspense: Desligue! (2026)" tvg-logo="https://www.dropbox.com/scl/fi/tn01d9mjuaswanjjc72bv/Desligue-2026.png?rlkey=zlouuhl58kntjpdio6mpz8aw0&st=ukcywoqx&dl=1" group-title="Filmes | Legendados",Suspense: Desligue! (2026)
 https://archive.org/download/desligue.-2026/Desligue.2026.mp4
 
-
-
-
-#EXTINF:-1 group-title="Filmes", Barbarella
+#EXTINF:-1 tvg-name="Ficção Científica: Barbarella" tvg-logo="https://www.dropbox.com/scl/fi/nz3rpgz87mndw6pfsojzg/Barbarella.png?rlkey=m8la1cryjtd8k8fk4hgm7wo1s&st=5acqh9cq&dl=" group-title=1"Filmes | Legendados",Ficção Científica: Barbarella
 https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dublado%29.mp4
 
-#EXTINF:-1 group-title="Filmes", Capitã Marvel 2019
-https://dn760001.eu.archive.org/0/items/Capita_marvel_.mkv/%7BWWW.BLUDV.TV%7D%20Capitã%20Marvel%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Capitã.Marvel.2019.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mp4
+#EXTINF:-1 tvg-name="Ficção Científica: Capitã Marvel 2019" tvg-logo="https://www.dropbox.com/scl/fi/43ku38gyasandchankdte/Capit-Marvel-2019.png?rlkey=fsduxgxlfjym7z1xvp9218ikt&st=lpbxteen&dl=1" group-title="Filmes | Legendados",Ficção Científica: Capitã Marvel 2019
+tã%20Marvel%202019%20%281080p%29%20Acesse%20o%20ORIGINAL%20WWW.BLUDV.TV/Capitã.Marvel.2019.1080p.BluRay.5.1.x264.DUAL-WWW.BLUDV.TV-TioKennedy.mp4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 #EXTINF:-1 group-title="Filmes", Uma.Escola Muito Doida 1996
 https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
@@ -971,7 +997,8 @@ https://ia800407.us.archive.org/29/items/o-resgate-de-jessica-1989-dual-576p-web
 #EXTINF:-1 group-title="Filmes", Morando Com O Perigo. 1990
 https://archive.org/download/morando-com-o-perigo.-1990/Morando%20com%20o%20Perigo.1990.mp4
 
-
+#EXTINF:-1 group-title="Filmes", O Auto da Compadecida-01
+https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
 
 
 
@@ -1090,8 +1117,7 @@ https://dn721909.ca.archive.org/0/items/fuckill-e-gregoryluis-09-dead-leaves-mov
 
 
 
-#EXTINF:-1 group-title="season", O Auto da Compadecida-01
-https://archive.org/download/oadc-box-dvd/O_AUTO_DA_COMPADECIDA_1.mp4
+
 
 
 
@@ -1311,56 +1337,6 @@ https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2001%20%282002%29%20-%2025%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
 #EXTINF:-1 tvg-name="Galaxy Angel S1E26" tvg-logo="https://www.dropbox.com/scl/fi/kka9kugv1uekzqo83w0ch/Galaxy-Angel.png?rlkey=3bfjr1ybrlwjm2k2y6shnd35i&st=o40ipz3z&dl=1" group-title="Séries | Animes",Galaxy Angel S1E26
 https://archive.org/download/markubex-jimjim-nadja-applefield-galaxy-angel-2001-01-bd-rmz-1440x-1080-avc-ac-3-dual-audio/%5Bmarkubex%20%26%20jimjim%20%26%20Nadja%20Applefield%5D%20Galaxy%20Angel%20Special%27s%2002%20%282002%29%20-%2026%20%5BBD-RMZ%201440x1080%20AVC%20AC3%20Dual-%C3%81udio%5D.mp4
-
-
-
-
-
-
-#EXTINF:-1 tvg-name="Barom One S1E1" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E1
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E01%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=02
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E02%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=03
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E03%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=04
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E04%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=05
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E05%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=06
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E06%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=07
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E07%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=08
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E08%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=09
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E09%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=10
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E10%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=11
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E11%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=12
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E12%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-#EXTINF:-1 group-title="🎥Barom One", Barom One=13
-https://archive.org/download/barao-um-melhor-versao-dubbr-animax-brasil/%5BTroidex%5D%20Barom%20One%20-%20S01E13%20%5BAMZN_WEB-DL_480p_H264_Dual%5D.mp4
-
-
-
-
 
 
 #EXTINF:-1 tvg-name="Barom One S1E1" tvg-logo="https://www.dropbox.com/scl/fi/v81qqogrmhmtctwfvp2vl/Barom-One.png?rlkey=24e5sidldb1zvjbskr95z5jkk&st=fvti9wlq&dl=1" group-title="Séries | Animes",Barom One S1E1

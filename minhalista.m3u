@@ -131,6 +131,20 @@ https://app.tvufop.com.br/hls/tvufop.m3u8
 
 
 
+#EXTINF:-1 tvg-id="AELatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/960px-A%26E_Network_logo.svg.png" group-title="TV paga",A&E Latin America Brazil (720p)
+http://170.83.16.50/AeE/index.m3u8
+
+#EXTINF:-1 tvg-id="LifetimeLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Logo_Lifetime_2020.svg/960px-Logo_Lifetime_2020.svg.png" group-title="TV paga",Lifetime Latin America Brazil (720p)
+http://170.83.16.50/LIFETIME/index.m3u8
+
+
+
+
+
+
+
+
+
 
 
 #EXTINF:-1 group-title="🎬Telecine", TV Cidade Brasil
@@ -138,9 +152,6 @@ https://stmv2.samcast.com.br/tvcidadebrasil/tvcidadebrasil/playlist.m3u8
 
 #EXTINF:-1 group-title="🎬Telecine", Darkflix TV
 https://darkflix.play.cportal.com.br/live/live/1/stream.m3u8
-
-
-
 
 
 
@@ -671,6 +682,53 @@ https://amg00627-banijay-amg00627c9-plex-us-1999.playouts.now.amagi.tv/playlist/
 
 #EXTINF:-1 group-title="🌶️Culinárias", CANAL BEM MELHOR
 https://video01.logicahost.com.br/bemmelhor/bemmelhor/playlist.m3u8
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="MTVAreyoutheOne.us@BR" tvg-logo="https://images.pluto.tv/channels/5f6108d8cc331900075e98e4/colorLogoPNG.png" group-title="MTV",MTV Are you the One?
+https://jmp2.uk/plu-5f6108d8cc331900075e98e4.m3u8
+
+#EXTINF:-1 tvg-id="MTVBiggestPop.us@BR" tvg-logo="https://images.pluto.tv/channels/6047fbdbbb776a0007e7f2ff/colorLogoPNG.png" group-title="MTV",MTV Biggest Pop BR (1080p)
+https://jmp2.uk/plu-6047fbdbbb776a0007e7f2ff.m3u8
+
+#EXTINF:-1 tvg-id="MTVCatfish.us@BR" tvg-logo="https://images.pluto.tv/channels/626c2a3502d84a0007cec817/colorLogoPNG.png" group-title="Entertainment",MTV Catfish (United States) BR (720p)
+https://jmp2.uk/plu-626c2a3502d84a0007cec817.m3u8
+
+#EXTINF:-1 tvg-id="MTVClassic.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01dcb8561260008b0a41d/colorLogoPNG.png" group-title="MTV",MTV Classic BR (720p)
+https://jmp2.uk/plu-66a01dcb8561260008b0a41d.m3u8
+
+#EXTINF:-1 tvg-id="MTVComoEx.us@BR" tvg-logo="https://images.pluto.tv/channels/61a528267e1b8b0007357920/colorLogoPNG.png" group-title="MTV",MTV Com o Ex
+https://jmp2.uk/plu-61a528267e1b8b0007357920.m3u8
+
+#EXTINF:-1 tvg-id="MTVDating.us@BR" tvg-logo="https://images.pluto.tv/channels/6851bb3426beced4f2f67ee6/colorLogoPNG_1750686926779.png" group-title="Series",MTV (United States)
+https://jmp2.uk/plu-6851bb3426beced4f2f67ee6.m3u8
+
+#EXTINF:-1 tvg-id="MTVDrag.us@BR" tvg-logo="https://images.pluto.tv/channels/645111f1d8436e00081bb2bd/colorLogoPNG.png" group-title="Entertainment",MTV Drag
+https://jmp2.uk/plu-645111f1d8436e00081bb2bd.m3u8
+#EXTINF:-1 tvg-id="MTVJovenseMaes.us@BR" 
+
+tvg-logo="https://images.pluto.tv/channels/620fdc7d8a36fc000710e3ba/colorLogoPNG.png" group-title="MTV",MTV Jovens e Maes (720p)
+https://jmp2.uk/plu-620fdc7d8a36fc000710e3ba.m3u8
+
+#EXTINF:-1 tvg-id="MTVPlutoTV.us@BR" tvg-logo="https://images.pluto.tv/channels/5f1212fb81e85c00077ae9ef/colorLogoPNG_1759263027326.png" group-title="MTV",MTV Pluto TV BR
+https://jmp2.uk/plu-5f1212fb81e85c00077ae9ef.m3u8
+
+#EXTINF:-1 tvg-id="MTVReality.us@BR" tvg-logo="https://images.pluto.tv/channels/6493f4f566e485000853d640/colorLogoPNG.png" group-title="MTV",MTV Reality (United States) (720p)
+https://jmp2.uk/plu-6851bdfc9ac48fde5e07f5ae.m3u8
+
+#EXTINF:-1 tvg-id="MTVRocks.us@BR" tvg-logo="https://images.pluto.tv/channels/66a01e07d2d50d0008100d6a/colorLogoPNG.png" group-title="MTV",MTV Rocks
+https://jmp2.uk/plu-66a01e07d2d50d0008100d6a.m3u8
+
+#EXTINF:-1 tvg-id="MTVShore.us@BR" tvg-logo="https://images.pluto.tv/channels/625463563b8ddc0007134aeb/colorLogoPNG.png" group-title="MTV",MTV Shore
+https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
+
+
+
 
 
 

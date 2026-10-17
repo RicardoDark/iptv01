@@ -528,7 +528,7 @@ https://amg01074-fueltv-fueltvbr-samsungbr-s1bib.amagi.tv/playlist/amg01074-fuel
 #EXTINF:-1 group-title="📼Variedades", Iblizz
 https://srv1.zcast.com.br/grupo6027/grupo6027/playlist.m3u8
 
-#EXTINF:-1 group-title="📼Variedades", TV itapetinga kids
+#EXTINF:-1 group-title="📼Variedades", TV itapetinga Animation;Kids
 https://stmv4.voxtvhd.com.br/eroaldo/eroaldo/playlist.m3u8
 
 #EXTINF:-1 group-title="📼Variedades", Canal 312
@@ -823,10 +823,10 @@ https://jmp2.uk/plu-604b79c558393100078faeef.m3u8
 #EXTINF:-1 tvg-id="Tokusato.us@Brazil" tvg-logo="https://i.imgur.com/tWpjXtl.png" group-title="🎎Animes",Tokusato
 https://jmp2.uk/plu-5ff609de50ab210008025c1b.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", F.Kids
+#EXTINF:-1 group-title="🎈Desenhos", F.Animation;Kids
 https://stmv2.srvif.com/emlsilva/emlsilva/playlist.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", Kids Mais
+#EXTINF:-1 group-title="🎈Desenhos", Animation;Kids Mais
 https://stmv1.transmissaodigital.com/tvkidmais/tvkidmais/playlist.m3u8
 
 #EXTINF:-1 group-title="🎈Desenhos", Animestation
@@ -835,8 +835,8 @@ https://stmv1.srvif.com/gospelcartoon/gospelcartoon/playlist.m3u8
 #EXTINF:-1 group-title="🎈Desenhos", Ministério Infantil
 https://stmv4.voxtvhd.com.br/1990/1990/playlist.m3u8
 
-#EXTINF:-1 group-title="🎈Desenhos", NBX TV KIDS
-https://stmv4.voxtvhd.com.br/bnxkids/bnxkids/playlist.m3u8
+#EXTINF:-1 group-title="🎈Desenhos", NBX TV Animation;Kids
+https://stmv4.voxtvhd.com.br/bnxAnimation;Kids/bnxAnimation;Kids/playlist.m3u8
 
 #EXTINF:-1 group-title="🎈Desenhos", MR BEAN 2
 https://amg00627-banijay-amg00627c35-plex-us-4257.playouts.now.amagi.tv/playlist/amg00627-banijayfast-mrbeanbr-plexus/playlist.m3u8
@@ -850,75 +850,75 @@ https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/mariosanthos/arquivos/main/Jetsons.png" group-title="🎈Desenhos", Os Jetsons
 https://stmv1.srvif.com/jetsontv/jetsontv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Kids",Avatar: A lenda de Aang
+#EXTINF:-1 tvg-id="AvatarAlendadeAang.us@BR" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/colorLogoPNG.png" group-title="Animation;Kids",Avatar: A lenda de Aang
 https://jmp2.uk/plu-6759eeb1bd523200083b4f29.m3u8
 
-#EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Kids",BabyFirst Brazil
+#EXTINF:-1 tvg-id="BabyFirst.us@Brazil" tvg-logo="https://i.imgur.com/WxLHBwu.png" group-title="Animation;Kids",BabyFirst Brazil
 https://jmp2.uk/plu-5f4fb4cf605ddf000748e16f.m3u8
 
-#EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Kids",Bob Esponja Calca Quadrada (720p)
+#EXTINF:-1 tvg-id="BobEsponjaCalcaQuadrada.us@BR" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/colorLogoPNG.png" group-title="Animation;Kids",Bob Esponja Calca Quadrada (720p)
 https://jmp2.uk/plu-62545c0b002f4b0007688b61.m3u8
 
-#EXTINF:-1 tvg-id="BoxKidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" group-title="Kids",Box Kids TV (720p)
-http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="BoxAnimation;KidsTV.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BoxAnimation;Kidstv.png" group-title="Animation;Kids",Box Animation;Kids TV (720p)
+http://170.83.49.66:8083/BOXAnimation;KidsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonNetworkLatinAmerica.us@Brazil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/960px-Cartoon_Network_2010_logo.svg.png" group-title="Animation;Kids",Cartoon Network Latin America Brazil (720p) [Geo-blocked]
 http://15.204.246.24:8080/CartoonNetworkHD/index.m3u8
 
-#EXTINF:-1 tvg-id="DiscoveryKidsLatinAmerica.us@Brazil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Kids_2021_2D_sin_wordmark.svg.png" group-title="Kids",Discovery Kids Latin America Brazil (720p) [Geo-blocked]
-http://15.204.246.24:8080/DiscoveryKidsHD/index.m3u8
+#EXTINF:-1 tvg-id="DiscoveryAnimation;KidsLatinAmerica.us@Brazil" tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/7/7f/Discovery_Animation;Kids_2021_2D_sin_wordmark.svg/960px-Discovery_Animation;Kids_2021_2D_sin_wordmark.svg.png" group-title="Animation;Kids",Discovery Animation;Kids Latin America Brazil (720p) [Geo-blocked]
+http://15.204.246.24:8080/DiscoveryAnimation;KidsHD/index.m3u8
 
-#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Kids",DumDum (720p)
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+#EXTINF:-1 tvg-id="DumDum.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" group-title="Animation;Kids",DumDum (720p)
+http://45.162.64.114/ZOOMOO_Animation;Kids/index.m3u8
 
-#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Kids",Gloob (576p)
+#EXTINF:-1 tvg-id="Gloob.br@SD" tvg-logo="https://i.imgur.com/N1BUULh.png" group-title="Animation;Kids",Gloob (576p)
 http://45.235.0.78/Gloob/playlist.m3u8
 
-#EXTINF:-1 tvg-id="GloobWeb.br@SD" tvg-logo="https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png" group-title="Kids",Gloob Web [Not 24/7]
+#EXTINF:-1 tvg-id="GloobWeb.br@SD" tvg-logo="https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png" group-title="Animation;Kids",Gloob Web [Not 24/7]
 https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
 
-#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids;Religious",Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosAnimation;Kids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Animation;Kids;Religious",Kuriakos Animation;Kids (1080p)
+https://w2.manasat.com/kAnimation;Kids/smil:kAnimation;Kids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Kids",Nick Jr. Club (United States) BR (720p)
+#EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Animation;Kids",Nick Jr. Club (United States) BR (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 
-#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Kids",Nickelodeon (Brazil) (480p)
+#EXTINF:-1 tvg-id="Nickelodeon.br@SD" tvg-logo="https://i.imgur.com/E84jnP8.png" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36" group-title="Animation;Kids",Nickelodeon (Brazil) (480p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonClassico.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png" group-title="Kids",Nickelodeon Classico (720p)
+#EXTINF:-1 tvg-id="NickelodeonClassico.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12151794c1800007a8ae63/colorLogoPNG_1750157164414.png" group-title="Animation;Kids",Nickelodeon Classico (720p)
 https://jmp2.uk/plu-6824ce10c5d53e1351ceb8d1.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonTeen.us@BR" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Kids",Nickelodeon Teen (720p)
+#EXTINF:-1 tvg-id="NickelodeonTeen.us@BR" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/colorLogoPNG_1767888207915.png" group-title="Animation;Kids",Nickelodeon Teen (720p)
 https://jmp2.uk/plu-60f5fabf0721880007cd50e3.m3u8
 
-#EXTINF:-1 tvg-id="NickelodeonToons.us@BR" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Kids",Nickelodeon Toons (720p)
+#EXTINF:-1 tvg-id="NickelodeonToons.us@BR" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/colorLogoPNG_1767888119852.png" group-title="Animation;Kids",Nickelodeon Toons (720p)
 https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
-#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Animation;Kids",NickOnline HD (720p)
+#EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Animation;Animation;Kids",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" group-title="Animation;Kids",NickOnline Bob Esponja (720p) [Not 24/7]
+#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" group-title="Animation;Animation;Kids",NickOnline Bob Esponja (720p) [Not 24/7]
 https://bob.x1colegal.com/hls/stream.m3u8
 
-#EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="Kids",O Reino Infantil
+#EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="Animation;Kids",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8
 
-#EXTINF:-1 tvg-id="OggyeasBaratasTontas.us@BR" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Kids",Oggy e as Baratas Tontas
+#EXTINF:-1 tvg-id="OggyeasBaratasTontas.us@BR" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/colorLogoPNG.png" group-title="Animation;Kids",Oggy e as Baratas Tontas
 https://jmp2.uk/plu-63221bafdc6e110007b50270.m3u8
 
-#EXTINF:-1 tvg-id="PlutoTVJunior.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Kids",Pluto TV Junior
+#EXTINF:-1 tvg-id="PlutoTVJunior.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/colorLogoPNG.png" group-title="Animation;Kids",Pluto TV Junior
 https://jmp2.uk/plu-5f12141b146d760007934ea7.m3u8
 
-#EXTINF:-1 tvg-id="KuriakosKids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Kids (1080p)
-https://w2.manasat.com/kkids/smil:kkids.smil/playlist.m3u8
+#EXTINF:-1 tvg-id="KuriakosAnimation;Kids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Animation;Kids",Kuriakos Animation;Kids (1080p)
+https://w2.manasat.com/kAnimation;Kids/smil:kAnimation;Kids.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BoxKidsTV.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/Boxkidstv.png" tvg-quality="720p",Box Kids TV
-http://170.83.49.66:8083/BOXKIDSHD/index.m3u8
+#EXTINF:-1 tvg-id="BoxAnimation;KidsTV.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/BoxAnimation;Kidstv.png" tvg-quality="720p",Box Animation;Kids TV
+http://170.83.49.66:8083/BOXAnimation;KidsHD/index.m3u8
 
 #EXTINF:-1 tvg-id="DumDum.br" group-title="Infantil" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/DumDum_logo.svg" tvg-quality="720p",DumDum
-http://45.162.64.114/ZOOMOO_KIDS/index.m3u8
+http://45.162.64.114/ZOOMOO_Animation;Kids/index.m3u8
 
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" tvg-quality="480p" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Nickelodeon
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
@@ -1995,79 +1995,79 @@ https://stream.ads.ottera.tv/cl/261016db98q25t1l1c73ba91j0/1280x720_3071200_0_f.
 #EXTINF:-1 tvg-id="2968" tvg-name="2968" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_br_1920x1080_0.jpg" group-title="Filmes",Runtime
 https://stream.ads.ottera.tv/cl/261016db98q2f3caps73ev4hq0/1280x720_3071200_0_f.m3u8?i=728_2153
 
-#EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-name="63da6bcd60bc8f0008a5d364" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Baby Shark TV
+#EXTINF:-1 tvg-id="63da6bcd60bc8f0008a5d364" tvg-name="63da6bcd60bc8f0008a5d364" tvg-logo="https://images.pluto.tv/channels/63da6bcd60bc8f0008a5d364/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Baby Shark TV
 https://tinyurl.com/22g8j34n
 
-#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-name="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Cocoricó
+#EXTINF:-1 tvg-id="62d969fd8451a30007f0fd94" tvg-name="62d969fd8451a30007f0fd94" tvg-logo="https://images.pluto.tv/channels/62d969fd8451a30007f0fd94/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Cocoricó
 https://tinyurl.com/28ff6epo
 
-#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="63eba189c111bc0008ff59c5" tvg-logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Moranguinho
+#EXTINF:-1 tvg-id="63eba189c111bc0008ff59c5" tvg-name="63eba189c111bc0008ff59c5" tvg-logo="https://images.pluto.tv/channels/63eba189c111bc0008ff59c5/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Moranguinho
 https://tinyurl.com/235z7byu
 
-#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="5f5c216df68f920007888315" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",O Reino Infantil
+#EXTINF:-1 tvg-id="5f5c216df68f920007888315" tvg-name="5f5c216df68f920007888315" tvg-logo="https://images.pluto.tv/channels/5f5c216df68f920007888315/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",O Reino Infantil
 https://tinyurl.com/2axtrhqu
 
-#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="63221bafdc6e110007b50270" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Oggy e as Baratas Tontas
+#EXTINF:-1 tvg-id="63221bafdc6e110007b50270" tvg-name="63221bafdc6e110007b50270" tvg-logo="https://images.pluto.tv/channels/63221bafdc6e110007b50270/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Oggy e as Baratas Tontas
 https://tinyurl.com/26po2rwn
 
-#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-name="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Pluto TV Junior
+#EXTINF:-1 tvg-id="5f12141b146d760007934ea7" tvg-name="5f12141b146d760007934ea7" tvg-logo="https://images.pluto.tv/channels/5f12141b146d760007934ea7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Junior
 https://tinyurl.com/2axyhrlv
 
-#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="5f1214a637c6fd00079c652f" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Pluto TV Kids
+#EXTINF:-1 tvg-id="5f1214a637c6fd00079c652f" tvg-name="5f1214a637c6fd00079c652f" tvg-logo="https://images.pluto.tv/channels/5f1214a637c6fd00079c652f/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Animation;Kids
 https://tinyurl.com/24hwqhya
 
-#EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-name="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Pluto TV Kids Club
+#EXTINF:-1 tvg-id="66c8cae7fed35b0008580ec0" tvg-name="66c8cae7fed35b0008580ec0" tvg-logo="https://images.pluto.tv/channels/66c8cae7fed35b0008580ec0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Animation;Kids Club
 https://tinyurl.com/22zrf6jk
 
-#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Turma da Mônica
+#EXTINF:-1 tvg-id="5f997e44949bc70007a6941e" tvg-name="5f997e44949bc70007a6941e" tvg-logo="https://images.pluto.tv/channels/5f997e44949bc70007a6941e/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Turma da Mônica
 https://tinyurl.com/29yoqo5z
 
-#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-name="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",As Tartarugas Ninja
+#EXTINF:-1 tvg-id="63dd5c904e83e700088fb68a" tvg-name="63dd5c904e83e700088fb68a" tvg-logo="https://images.pluto.tv/channels/63dd5c904e83e700088fb68a/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",As Tartarugas Ninja
 https://tinyurl.com/2ajkt2o3
 
-#EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-name="6759eeb1bd523200083b4f29" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Avatar: A lenda de Aang
+#EXTINF:-1 tvg-id="6759eeb1bd523200083b4f29" tvg-name="6759eeb1bd523200083b4f29" tvg-logo="https://images.pluto.tv/channels/6759eeb1bd523200083b4f29/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Avatar: A lenda de Aang
 https://tinyurl.com/2dnh58qf
 
-#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="62545c0b002f4b0007688b61" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Bob Esponja Calça Quadrada
+#EXTINF:-1 tvg-id="62545c0b002f4b0007688b61" tvg-name="62545c0b002f4b0007688b61" tvg-logo="https://images.pluto.tv/channels/62545c0b002f4b0007688b61/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Bob Esponja Calça Quadrada
 https://tinyurl.com/2bwuovsf
 
-#EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-name="6824ce95f09106f4b18f4114" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nick Jr. Club
+#EXTINF:-1 tvg-id="6824ce95f09106f4b18f4114" tvg-name="6824ce95f09106f4b18f4114" tvg-logo="https://images.pluto.tv/channels/6824ce95f09106f4b18f4114/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nick Jr. Club
 https://tinyurl.com/29fp7u8d
 
-#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-name="6824ce10c5d53e1351ceb8d1" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nickelodeon Clássico
+#EXTINF:-1 tvg-id="6824ce10c5d53e1351ceb8d1" tvg-name="6824ce10c5d53e1351ceb8d1" tvg-logo="https://images.pluto.tv/channels/6824ce10c5d53e1351ceb8d1/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Clássico
 https://tinyurl.com/2238omgx
 
-#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nickelodeon Teen
+#EXTINF:-1 tvg-id="60f5fabf0721880007cd50e3" tvg-name="60f5fabf0721880007cd50e3" tvg-logo="https://images.pluto.tv/channels/60f5fabf0721880007cd50e3/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Teen
 https://tinyurl.com/2xo8abj3
 
-#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-name="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Nickelodeon Toons
+#EXTINF:-1 tvg-id="645951c0e94c38000802d2cb" tvg-name="645951c0e94c38000802d2cb" tvg-logo="https://images.pluto.tv/channels/645951c0e94c38000802d2cb/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Nickelodeon Toons
 https://tinyurl.com/26sjmu3v
 
-#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-name="63221e41af69b500076f84e7" tvg-logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Os Padrinhos Mágicos
+#EXTINF:-1 tvg-id="63221e41af69b500076f84e7" tvg-name="63221e41af69b500076f84e7" tvg-logo="https://images.pluto.tv/channels/63221e41af69b500076f84e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Os Padrinhos Mágicos
 https://tinyurl.com/22ln28ns
 
-#EXTINF:-1 tvg-id="69162648d03565d6c8c8df97" tvg-name="69162648d03565d6c8c8df97" tvg-logo="https://images.pluto.tv/channels/69162648d03565d6c8c8df97/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Inspetor Bugiganga
+#EXTINF:-1 tvg-id="69162648d03565d6c8c8df97" tvg-name="69162648d03565d6c8c8df97" tvg-logo="https://images.pluto.tv/channels/69162648d03565d6c8c8df97/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Inspetor Bugiganga
 https://tinyurl.com/25fvya3a
 
-#EXTINF:-1 tvg-id="68b88ae1943f6fb1fb2ad749" tvg-name="68b88ae1943f6fb1fb2ad749" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Os Smurfs
+#EXTINF:-1 tvg-id="68b88ae1943f6fb1fb2ad749" tvg-name="68b88ae1943f6fb1fb2ad749" tvg-logo="https://images.pluto.tv/channels/68b88ae1943f6fb1fb2ad749/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Os Smurfs
 https://tinyurl.com/2addool2
 
-#EXTINF:-1 tvg-id="655e5c4d2c46f3000877a54b" tvg-name="655e5c4d2c46f3000877a54b" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Pluto TV Desenhos Clássicos
+#EXTINF:-1 tvg-id="655e5c4d2c46f3000877a54b" tvg-name="655e5c4d2c46f3000877a54b" tvg-logo="https://images.pluto.tv/channels/655e5c4d2c46f3000877a54b/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Pluto TV Desenhos Clássicos
 https://tinyurl.com/243ujw6d
 
-#EXTINF:-1 tvg-id="677d93f37bffa600080795e7" tvg-name="677d93f37bffa600080795e7" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Kids",Popeye
+#EXTINF:-1 tvg-id="677d93f37bffa600080795e7" tvg-name="677d93f37bffa600080795e7" tvg-logo="https://images.pluto.tv/channels/677d93f37bffa600080795e7/logo.png?fit=fill&fm=png&h=80&w=280" group-title="Animation;Kids",Popeye
 https://tinyurl.com/2c4x5yj2
 
-#EXTINF:-1 tvg-id="11808" tvg-name="11808" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" group-title="Kids",Toon Goggles em português
+#EXTINF:-1 tvg-id="11808" tvg-name="11808" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/uLDVczoJETxKCu1UvzcUeCk5yNN8c-Dm2UuMf7ybPQw.jpg" group-title="Animation;Kids",Toon Goggles em português
 https://stream.ads.ottera.tv/cl/261016db98q1har3as73bsk4s0/1280x720_3071200_0_f.m3u8?i=728_5442
 
-#EXTINF:-1 tvg-id="14530" tvg-name="14530" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/tv_zyn_thumbnail.jpg" group-title="Kids",TV ZYN
+#EXTINF:-1 tvg-id="14530" tvg-name="14530" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/tv_zyn_thumbnail.jpg" group-title="Animation;Kids",TV ZYN
 https://tinyurl.com/27ownwlw
 
-#EXTINF:-1 tvg-id="6807" tvg-name="6807" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_3_0.jpg" group-title="Kids",Runtime Familia
+#EXTINF:-1 tvg-id="6807" tvg-name="6807" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9_3_0.jpg" group-title="Animation;Kids",Runtime Familia
 https://stream.ads.ottera.tv/cl/261016db98q197hdms738dqbig/1280x720_3071200_0_f.m3u8?i=728_5589
 
-#EXTINF:-1 tvg-id="6815" tvg-name="6815" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg" group-title="Kids",Runtime Familia
+#EXTINF:-1 tvg-id="6815" tvg-name="6815" tvg-logo="https://img.static-ottera.com/prod/run/linear_channel/logo/runtime_familia_16x9.jpg" group-title="Animation;Kids",Runtime Familia
 https://stream.ads.ottera.tv/cl/261016db98q1pam65c739298ug/1280x720_3071200_0_f.m3u8?i=728_6118
 
 #EXTINF:-1 tvg-id="666c9c60a7efd40008f552f0" tvg-name="666c9c60a7efd40008f552f0" tvg-logo="https://images.pluto.tv/channels/666c9c60a7efd40008f552f0/logo.png?fit=fill&fm=png&h=80&w=280" group-title="📰Notícias",BM&C News

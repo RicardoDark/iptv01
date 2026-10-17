@@ -684,8 +684,12 @@ https://stmv2.samcast.com.br/davi2252/davi2252/playlist.m3u8
 #EXTINF:-1 group-title="🫤TV Livre", +MaisUm
 https://stream.ichibansys.com:3230/hybrid/play.m3u8
 
-#EXTINF:-1 tvg-id="RedeNGT" group-title="TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
+#EXTINF:-1 tvg-id="RedeNGT" group-title="🫤TV Livre" tvg-logo="https://i.imgur.com/ZFN1R4B.png" tvg-quality="1080p",Rede NGT
 https://isaocorp.cloudecast.com/ngt/index.m3u8
+
+
+
+
 
 #EXTINF:-1 tvg-id="PlutoTVKFOOD.us@BR" tvg-logo="https://images.pluto.tv/channels/633ee9ba83c08f00076b60a6/colorLogoPNG.png" group-title="🌶️Culinárias",Pluto TV KFOOD
 https://jmp2.uk/plu-633ee9ba83c08f00076b60a6.m3u8

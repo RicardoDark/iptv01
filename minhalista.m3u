@@ -236,8 +236,6 @@ https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 https://jmp2.uk/plu-5f171d3442a0500007362f22.m3u8
 #EXTINF:-1 tvg-id="MyTimeMovieNetwork.br@SD" tvg-logo="https://i.imgur.com/aiGQtzI.png" group-title="🎬Telecine",MyTime Movie Network (Brazil) (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="🎬Telecine",Pluto TV Bang Bang
-https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
 #EXTINF:-1 tvg-id="SonyMovies.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Sony_Movies_Logo.svg/500px-Sony_Movies_Logo.svg.png" group-title="🎬Telecine",Sony Movies (720p)
 http://45.162.64.114/SONY_MOVIES/index.m3u8
 
@@ -462,6 +460,9 @@ https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
 #EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Turbo
 https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+#EXTINF:-1 tvg-id="PlutoTVBangBang.us@BR" tvg-logo="https://images.pluto.tv/channels/663b9dc7cb3ea10008f1a0ce/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Bang Bang
+https://jmp2.uk/plu-663b9dc7cb3ea10008f1a0ce.m3u8
+
 
 
 
@@ -803,6 +804,14 @@ https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dubla
 
 #EXTINF:-1 tvg-name="Uma Escola Muito" tvg-logo="https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=1" group-title="Filmes | Comedia", Uma Escola Muito
 https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
+
+
+
+
+
+
+
+
 
 
 

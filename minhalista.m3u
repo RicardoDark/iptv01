@@ -543,6 +543,11 @@ https://stmv1.samcast.com.br/giovane7843/giovane7843/playlist.m3u8
 #EXTINF:-1 group-title="📼Variedades", TVLifeAmerica
 https://streaming.cloudecast.com/hls/tvlifeamerica/index.m3u8
 
+#EXTINF:-1 group-title="📼Variedades", MIAMI VICE
+https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
+
+
+
 #EXTINF:-1 tvg-id="PlutoTVRetro.us@BR" tvg-logo="https://i.imgur.com/wztO3GM.png" group-title="📼Variedades",Pluto TV Retro
 https://jmp2.uk/plu-5f1212ad1728050007a523b8.m3u8
 
@@ -773,9 +778,6 @@ https://tv03.zas.media:1936/tvdocarro/tvdocarro/playlist.m3u8
 #EXTINF:-1 group-title="🛻Automóveis", Canal Motor
 https://digicom.hls.iptvdc.com/canalmotor/index.m3u8
 
-#EXTINF:-1 group-title="📺GTA VC", MIAMI VICE
-https://video05.logicahost.com.br/miamivice/miamivice/playlist.m3u8
-
 #EXTINF:-1 group-title="🎮Games",  CANAL START
 https://srv5.zcast.com.br/canalstart/canalstart/playlist.m3u8
 
@@ -878,9 +880,6 @@ http://45.235.0.78/Gloob/playlist.m3u8
 #EXTINF:-1 tvg-id="GloobWeb.br@SD" tvg-logo="https://i.ibb.co/wrQZXZ01/C-pia-de-Blue-Modern-Simple-Logo.png" group-title="Animation;Kids",Gloob Web [Not 24/7]
 https://vs20.live.opencaster.com/globiosat_73a904af/index.m3u8
 
-#EXTINF:-1 tvg-id="KuriakosAnimation;Kids.pt@SD" tvg-logo="https://i.imgur.com/SRX6EPY.png" group-title="Kids",Kuriakos Animation;Kids (1080p)
-https://w2.manasat.com/kAnimation;Kids/smil:kAnimation;Kids.smil/playlist.m3u8
-
 #EXTINF:-1 tvg-id="NickJrClub.us@BR" tvg-logo="https://images.pluto.tv/channels/5f121460b73ac6000719fbaf/colorLogoPNG_1748348856602.png" group-title="Animation;Kids",Nick Jr. Club (United States) BR (720p)
 https://jmp2.uk/plu-6824ce95f09106f4b18f4114.m3u8
 
@@ -899,9 +898,6 @@ https://jmp2.uk/plu-645951c0e94c38000802d2cb.m3u8
 
 #EXTINF:-1 tvg-id="NickOnline.br@HD" tvg-logo="https://x1colegal.com/logo.png" group-title="Animation;Kids",NickOnline HD (720p)
 https://x1colegal.com/hls/stream.m3u8
-
-#EXTINF:-1 tvg-id="NickOnlineBobEsponja.br@HD" tvg-logo="https://x1colegal.com/nickonlinebobesponja.png" group-title="Animation;Animation;Kids",NickOnline Bob Esponja (720p) [Not 24/7]
-https://bob.x1colegal.com/hls/stream.m3u8
 
 #EXTINF:-1 tvg-id="OReinoInfantil.us@Brazil" tvg-logo="https://i.imgur.com/qoVxc13.png" group-title="Animation;Kids",O Reino Infantil
 https://jmp2.uk/plu-5f5c216df68f920007888315.m3u8

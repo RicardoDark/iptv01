@@ -264,6 +264,9 @@ http://170.83.49.66:8083/AMCHD/index.m3u8
 #EXTINF:-1 tvg-id="AXN.br@SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" group-title="🎬Telecine",AXN (Brazil) (720p)
 http://170.83.16.50/AXN/index.m3u8
 
+#EXTINF:-1 tvg-id="AXN.br" group-title="🎬Telecine" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-quality="720p",AXN
+http://170.83.16.50/AXN/index.m3u8
+
 #EXTINF:-1 tvg-id="CineTerror.us@BR" tvg-logo="https://images.pluto.tv/channels/5f12111c9e6c2c00078ef3bb/colorLogoPNG.png" group-title="🎬Telecine",Cine Terror BR
 https://jmp2.uk/plu-5f12111c9e6c2c00078ef3bb.m3u8
 
@@ -1073,9 +1076,6 @@ https://ia600905.us.archive.org/7/items/barbarella-dublado/Barbarella%20%28Dubla
 
 #EXTINF:-1 tvg-name="Uma Escola Muito" tvg-logo="https://www.dropbox.com/scl/fi/omqgpqcihie5sfzfe7qma/Uma-Escola-Muito-Doida-1996.png?rlkey=mw0zhx046i6adu7fhvqvy4j7z&st=0bthy0bp&dl=1" group-title="Filmes | Comedia", Uma Escola Muito
 https://dn711005.ca.archive.org/0/items/Uma.Escola.Muito.Doida.1996.Dublado.HDTV.720p.by.jhonatan28.mkv/Uma.Escola.Muito.Doida.%281996%29.Dublado.HDTV.720p.by.jhonatan28.mp4
-
-#EXTINF:-1 tvg-id="AXN.br" group-title="Filmes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/AXN_logo_%282015%29.svg/960px-AXN_logo_%282015%29.svg.png" tvg-quality="720p",AXN
-http://170.83.16.50/AXN/index.m3u8
 
 #EXTINF:-1 group-title="Filmes", Era Uma Vez Na Floresta
 https://ia801600.us.archive.org/3/items/era-uma-vez-na-floresta/Era%20uma%20Vez%20na%20Floresta.mp4

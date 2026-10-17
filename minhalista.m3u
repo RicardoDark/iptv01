@@ -433,7 +433,8 @@ https://jmp2.uk/plu-6474aa984cfc2c0008883a92.m3u8
 https://jmp2.uk/plu-5f32cf37c9ff2b00082adbc8.m3u8
 #EXTINF:-1 tvg-id="PlutoTVPolicial.us@BR" tvg-logo="https://images.pluto.tv/channels/678fdf9e3de7c8cf948e8824/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Policial
 https://jmp2.uk/plu-678fdf9e3de7c8cf948e8824.m3u8
-
+#EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="🪐PlutoTV",Pluto TV Turbo
+https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
 
 
 
@@ -592,8 +593,7 @@ https://jmp2.uk/plu-625463563b8ddc0007134aeb.m3u8
 
 
 
-#EXTINF:-1 tvg-id="PlutoTVTurbo.us@BR" tvg-logo="https://images.pluto.tv/channels/6014761dfb91870008ea6463/colorLogoPNG.png" group-title="🛻Automóveis",Pluto TV Turbo
-https://jmp2.uk/plu-6014761dfb91870008ea6463.m3u8
+
 #EXTINF:-1 group-title="🛻Automóveis", RACER BRASIL
 https://amg16379-sports7-amg16379c2-tcl-us-4436.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="🛻Automóveis", NASCAR Channel

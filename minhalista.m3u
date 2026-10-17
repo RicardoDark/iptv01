@@ -920,20 +920,8 @@ http://45.162.64.114/ZOOMOO_Animation;Kids/index.m3u8
 #EXTINF:-1 tvg-id="Nickelodeon.br" group-title="Infantil" tvg-logo="https://static.wikia.nocookie.net/nickelodeon/images/7/7e/2023_Nick_3D.png" tvg-quality="480p" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36",Nickelodeon
 https://stmv2.srvif.com/nicktoons/nicktoons/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ComedyCentralSouthPark.us@BR" tvg-logo="https://images.pluto.tv/channels/609ae66b359b270007869ff1/colorLogoPNG_1733160636316.png" group-title="Animation;Comedy",Comedy Central South Park
-https://jmp2.uk/plu-609ae66b359b270007869ff1.m3u8
 
-#EXTINF:-1 tvg-id="SouthParkColecaoCartman.us@BR" tvg-logo="https://images.pluto.tv/channels/65df71008b24c80008f04281/colorLogoPNG.png" group-title="Animation;Comedy",South Park: Colecao Cartman
-https://jmp2.uk/plu-65df71008b24c80008f04281.m3u8
 
-#EXTINF:-1 tvg-id="SouthParkColecaoKenny.us@BR" tvg-logo="https://images.pluto.tv/channels/65df704366eec8000898e32f/colorLogoPNG.png" group-title="Animation;Comedy",South Park: Colecao Kenny
-https://jmp2.uk/plu-65df704366eec8000898e32f.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkColecaoKyle.us@BR" tvg-logo="https://images.pluto.tv/channels/65df713dec9fda0008b7a81d/colorLogoPNG.png" group-title="Animation;Comedy",South Park: Colecao Kyle
-https://jmp2.uk/plu-65df713dec9fda0008b7a81d.m3u8
-
-#EXTINF:-1 tvg-id="SouthParkColecaoStan.us@BR" tvg-logo="https://images.pluto.tv/channels/65df70b0f7f0af0008c3b316/colorLogoPNG.png" group-title="Animation;Comedy",South Park: Colecao Stan
-https://jmp2.uk/plu-65df70b0f7f0af0008c3b316.m3u8
 
 #EXTINF:-1 tvg-id="AWTV.br@HD" tvg-logo="https://i.imgur.com/2tdMyef.png" http-referrer="https://awtv.com.br" group-title="Maratonas & Cenas",AWTV (1080p) [Geo-blocked]
 #EXTVLCOPT:http-referrer=https://awtv.com.br
